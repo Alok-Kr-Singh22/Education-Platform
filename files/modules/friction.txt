@@ -1,0 +1,274 @@
+﻿
+						========
+						FRICTION
+						========
+
+Table of Content
+•	Cause of Friction
+•	Types of Friction
+•	Cause and Direction of Rolling Friction
+•	Co-Efficient of Friction
+•	Angle of Friction
+•	Angle of Repose
+•	Methods of Reducing Friction
+•	Related Resources
+
+
+Whenever the surface of a body slides over another, each body experiences a contact force which 
+always opposes the relative motion between the surfaces. This contact force is calledfrictional force. 
+Intermolecular interaction arising due to elastic properties of matter is the cause of frictional force.
+This force acts tangentially to the interface of two bodies.
+
+					-----------------
+					Cause of Friction
+					-----------------
+Old view:-
+--------
+Earlier it was thought that roughness of the two surfaces causes friction in the figure because it can 
+be easily seen that smoother the surfaces, lesser is the friction. Interlocking of irregularities of the two
+ surfaces causes hindrance to sliding. This, however, is not the current view.
+
+Current view:-
+------------
+The current view is a slight deviation from the old view. Earlier we thought that interlocking of 
+irregularities of surfaces was causing friction. Now, it is though that due to irregularities, the common
+surface area which is in actual contact of the two surfaces, is much less than the total overall area 
+in contact.
+In one experiment, it came out to be 1/10,000th of the apparent area.
+
+Thus, while the total interactive (action and reaction) forces between the two surfaces remain the same, 
+the pressures at the points of contact are extremely high and cause the humps to flatten out 
+(undergoing plastic deformation) until the increased area of contact enables the upper solid to 
+be supported. It is thought that at the points of contact, small, cold-welded joints are formed by 
+the strong adhesive forces between molecules which are very close together. These have to be broken
+ away before one surface can move over the other.
+
+
+Thus the force of friction is found to depend upon the following factors :
+ 
+(i) The nature of two surfaces with the surfaces are being pressed together.
+(ii) Normal force with the surfaces are being pressed together.
+(iii) Actual area of contact
+
+
+					-----------------
+					Types of Friction
+					-----------------
+There are four types of friction.
+(a) Static Friction   (b) Kinetic Friction     (c) Rolling Friction      (d) Fluid Friction
+
+
+					(a) Static friction
+					    ---------------
+ 
+Static friction is the force of friction between two surfaces so long as there is no relative motion
+between them. It is always equal to the applied force. The static frictional forces are incorporated 
+in the following equality.
+  					 fₛ = µₛ N
+
+The magnitude of static friction fₛ (static frictional force) has a maximum value fₛ ₘₐₓ  that is given by,
+
+					fₛ ₘₐₓ  = µₛ N
+
+Here " µₛ " is the coefficient of kinetic friction and N is the normal force.
+
+So, coefficient of static friction,	 µₛ = fₛ ₘₐₓ / N
+
+Static friction is always equal to the apllied force. It will be observe that value of static friction 
+increases to certain maximum value, beyond which if the applied force is increased body starts
+ moving. This maximum value of force of friction is called limiting friction.
+
+
+Limiting friction :  is the maximum value of force of friction between two surfaces so long as there
+-----------------    is no relative motion between them.
+
+
+					(b) Kinetic friction
+					    ----------------
+
+Kinetic friction is the force of friction which comes into play between two surfaces when there is 
+some relative motion between them. The magnitude of force of kinetic friction fₖ 
+(kinetic frictional force) is proportional to the normal force N.
+ 
+					fₖ = µₖ N
+  
+Here " µₖ " is the coefficient of kinetic friction.
+
+So, coefficient of kinetic friction,	 µₖ = fₖ /N  
+
+
+Laws of limiting friction:-
+-------------------------
+
+(i) The direction of force of friction is always opposite to the direction of motion.
+
+(ii) The force of limiting friction depends upon the nature and state of polish of the surfaces in 
+    contact and acts tangentially to the interface between the two surfaces.
+
+(iii) The magnitude of limiting friction ‘F’ is directly proportional to the magnitude of the normal 
+    reaction R between the two surfaces in contact, i.e.,
+
+					F∝R
+
+(iv) The magnitude of the limiting friction between two surfaces is independent of the area and shape
+    of the surfaces in contact so long as the normal reaction remains the same.
+
+
+
+					(c) Rolling friction
+					    ----------------
+ Force of friction which comes into play, between two surfaces, while one is rolling over the other is
+ called rolling friction.  Rolling friction is similar to kinetic friction.
+
+					fᵣ = µᵣ N
+ 
+Here " µᵣ " is the coefficient of rolling friction and N is the normal force.
+
+Cause and Direction of Rolling Friction
+ 
+A wheel of radius R rolling without sliding on a flat surface will experience a resistance due to the 
+very small local deformation that takes place, which is sometimes elastic sometimes inelastic, i.e., 
+a kind of ridge is formed in front of the wheel as shown exaggerated in the figure. This gives rise to 
+the force Fᵣ, whose line of action passes through the center C of the wheel and P the horizontal force 
+necessary to force the wheel to topple over the point M, the total clockwise torque acting on the wheel 
+about M must be more than or marginally more than the total anticlockwise torque about M.
+ F = Frictional force
+
+Therefore,			P × R cos θ > mg × R sin θ
+				P > mg tan θ
+
+The value of "tan θ" is called the coefficient of rolling friction (µᵣ). This value does not depend upon R.
+ If the two surfaces are absolutely rigid, then no ridge will be formed and q will be zero i.e., coefficient
+ of rolling friction will be zero.
+
+Typical values are 
+			µᵣ = 0.006 for steel
+			µᵣ = 0.02 - 0.04 for rubber tiers on concrete surfaces
+
+Rolling friction is very small compared to the sliding friction. In case of pure rolling µᵣ = 0.
+
+
+
+					(d) Fluid friction
+					    --------------
+
+Fluid friction is the opposing force which comes into play when a body moves through a fluid.
+
+
+ 
+ 
+•	The value of angle of friction and that of angle of repose are same and the tangents of both of them 
+	is equal to the co-efficient of friction.
+•	When a body slides down an inclined plane, whose angle of inclination with the horizontal is 
+	equal to angle of repose, it moves with uniform velocity.
+•	Sliding friction and rolling friction are independent of velocity.
+•	Fluid friction depends upon velocity. It increases with an increase in velocity.
+•	Force of limiting friction does not depend upon the size and shape of surface in contact.
+•	Coefficient of kinetic friction is less than coefficient of static friction i.e.,µk ?µs
+
+
+
+					------------------------
+					Co-Efficient of Friction
+					------------------------
+According to the law of limiting friction,
+F ∝  R
+Or F = μR           ............ (1)
+
+where μ is a constant of proportionality and is called the coefficient of limiting friction between the
+two surfaces in contact.
+ 
+Hence coefficient of limiting friction between any two surfaces in contact is defined as the ratio 
+of the force of limiting friction and normal reaction between them.
+
+The value of μ depends on
+
+(i) nature of the surfaces in contact i.e., whether dry or wet; rough or smooth; polished or not polished.
+(ii) material of the surfaces in contact.
+
+For example, when two polished metal surfaces are in contact, μ ≈ 0.2, when these surfaces are 
+lubricated, μ ≈ 0.1. Between two smooth wooden surfaces, μ varies between 0.2 and 0.5. Obviously,
+
+				* μ has no units *
+
+When a body is actually moving over the surface of another body, we place F by Fₓ, the kinetic 
+friction, and μ and μₖ
+Therefore,
+ 
+μₖ is then called the coefficient of kinetic or dynamic friction. As Fₖ < F, therefore, μₖ is always less 
+than μ i.e. coefficient of kinetic or dynamic friction is always less than the coefficient of limiting friction.
+
+
+Table gives the values of coefficient of limiting/kinetic friction between some pairs of materials:
+
+    |---------------------------------------------------------------------------------------------------------------|
+    |	S.No. |	   Surface in contact	  |  Coefficient of limiting friction  |  Coefficient of kinetic friction   |
+    |---------|---------------------------|------------------------------------|------------------------------------|
+    |	1.    |	 Wood on wood		  |		0.70		       |		0.40		    |
+    |	2.    |	 Wood on leather	  |		0.50		       |		0.40		    |
+    |	3.    |	 Steel on Steel (mild)	  |		0.74		       |		0.57		    |
+    |	4.    |	 Steel on Steel (hard)	  |		0.78		       |		0.42		    |
+    |	5.    |  Steel on Steel (greased) |		0.10		       |		0.05		    |
+    |---------------------------------------------------------------------------------------------------------------|
+ 
+
+
+					-----------------
+					Angle of Friction
+					-----------------
+ 
+The angle made by the resultant reaction force with the vertical (normal reaction) is known as the angle of the friction.
+
+					tanθ = f / N  = µₛ
+
+
+					---------------			
+					Angle of Repose
+					---------------
+
+It is the angle which an inclined plane makes with the horizontal so that a body placed over it just begins to slide
+of its own accord.
+				
+				    	      f
+                                      /\    ↗    ∕|                                            
+                                     /  \ ↗    ∕  |                                           
+                                     \ m \   ∕    |                                            
+                                      \   \∕      |                                            
+                                       \ ∕        |                                            
+                                       ∕          |                                            
+                                     ∕            |                                            
+                                   ⁄_)θ__________|                                           
+                                                                                      
+Consider a body of mass m resting on an inclined plane of inclination θ . The frictional force acting on the 
+body is shown (f). If friction is large enough, the body will not slide down.
+
+Along x: 			mg sin θ – f = 0          
+Along y:			N –mg cosθ = 0                
+
+			     =>	 N = mg cos θ and f = mg sin θ 
+Thus, 				
+		since	 	f ≤ µₛ N
+				mg sin θ ≤ µₛ mg cosθ 
+				tan θ ≤  µₛ
+
+This signifies, the coefficient of static friction between the two surfaces, in order that
+the body doesn’t slide down.
+
+When θ is increased, then  tan θ >  µ . Thus sliding begins, and the angle 
+
+				θᵣ = tan⁻¹µ.
+
+This angle is known as the angle of repose.
+
+
+
+
+				----------------------------
+				Methods of Reducing Friction
+				----------------------------
+
+Friction can be reduced if we try to remove the cause of friction.
+(a) By rubbing and polishing
+(b) By lubricants
+(c) By converting sliding into rolling friction
+(d) By streamlining

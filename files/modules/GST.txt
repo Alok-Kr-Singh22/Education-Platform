@@ -1,0 +1,259 @@
+
+					=====
+					G S T
+					=====
+
+				    What is GST ?
+				    -----------
+
+Goods and Services Tax (GST) is a value-added indirect tax at each stage of the supply of goods
+and services precisely on the amount of value addition achieved. It seeks to eliminate
+inefficiencies in the tax system that result in 'tax on tax', known as cascading of taxes. GST is a
+destination-based tax on consumption, as per which the state's share of taxes on inter-state
+commerce goes to the one that is home to the final consumer, rather than to the exporting state.
+GST has two equal components of central and state GST.
+
+
+				Who is liable to pay GST ?
+				------------------------
+
+Businesses and traders with annual sales above Rs 20 lakh are liable to pay GST. The threshold for
+paying GST is Rs. 10 lakh in the case of northeastern and special category states. GST is applicable
+on inter-state trade irrespective of this threshold.
+
+
+			Which taxes will be included in GST ?
+			-----------------------------------
+
+GST will be substitute all indirect taxes levied by the state and central government. GST would
+apply to all goods other than crude petroleum, motor spirit, diesel, aviation turbine fuel and
+natural gas and alcoholic liquor for human consumption.
+
+Example 1: 	Company A in UP sold goods to a Company B in UP worth Rs. 10,000.
+		The GST rate is 18% comprising (9% CGST + 9% SGST). In this case Company A charges
+		Rs. 1800 GST. From this amount, Rs. 900 will go to the central government and
+		Rs. 900 will go to the UP government.
+
+
+Example 2: 	Company A in UP sold goods to a Company C in Gujarat worth Rs. 10,000.
+		The GST rate is 18% comprising (18% IGST). In this case Company A charges Rs. 1800
+		IGST and this entire amount will go to the central government. 
+
+
+
+
+			How are decisions taken at the GST Council ?
+			------------------------------------------
+
+No decision can be taken in the Council without the concurrence of both the Union and the state
+governments. Decisions will be taken by a 75% majority of the weighted votes of members present and
+voting. The Union government's vote has a weightage of one-third of the votes cast, while all states.
+
+
+
+					----------------
+					INPUT TAX CREDIT
+					----------------
+
+Input credit means at the time of paying tax on output, you can reduce the tax you have already
+paid on inputs.
+Say, you are a manufacturer -
+				tax payable on output (FINAL PRODUCT) is Rs 450
+				tax paid on input (PURCHASES) is Rs 300
+
+	You can claim INPUT CREDIT of Rs 300 and you only need to deposit Rs 150 in taxes. 
+
+
+
+					----------------------
+					MISCELLANEOUS EXAMPLES
+					----------------------
+________________________________________________________________________________________________________________
+
+Example: 1
+
+Mr. A is sold goods to Mr. B for Rs. 20,000. Mr. A is charging packing charges of Rs. 800. Mr. A
+is also paying freight of Rs. 2800 from Mr. A's premises to Mr. B's premises. Whether packing charges 
+or freight is required to include in the invoice to determine taxable value ?
+
+Answer: 1
+
+Yes, packing charges or freight is required to include in the invoice to determine taxable value. Hence,
+Value of Supply will be Rs. 23,600.
+________________________________________________________________________________________________________________
+
+Example: 2
+
+Mr. A is sold goods worth of Rs. 50,000. Mr. A is also charged interest of Rs. 750 for delay in payment. 
+Determine the taxable value foe levy of GST.
+
+Answer: 2
+
+Taxable Value includes Interest & Penalty charged for delayed payment. Hence, In this case Taxable Value 
+for levy of GST will be Rs. 50,750.
+________________________________________________________________________________________________________________
+
+Example: 3
+
+Mr. A is sold goods to Mr. B for Rs. 20,000. Mr. A is allowing discount of Rs. 2000 at the time of supply. 
+Determine value of supply for the purpose of levy of GST?
+
+Answer: 3
+
+Discount is given at the time of supply. In this case value of taxable supply in the invoice after giving 
+effect of discount will be Rs. 18,000 for the purpose of levy of GST.
+________________________________________________________________________________________________________________
+
+Example: 4
+
+Mr. A is sold 1000 unit of goods to Mr. B for Rs. 20,000 and total unit sold during the year to Mr. B after 
+including these units is 2500 unit. As per terms of the agreement if Mr. A is purchasing more than 2000 unit 
+of goods in a year than Mr. A is allowing 10% discount in all the supplies. Assuming IGST rate is 18%. How 
+discount will be recorded?
+
+Answer: 4
+
+In this case discount is given after sale. Mr. A will issue a credit note with the amount of discount i.e. 
+Rs. 5,000 and GST on such discount i.e. Rs. 900.
+________________________________________________________________________________________________________________
+
+Example: 5
+
+Mr. X is providing construction services to Mr. Y. In addition to the consideration, Mr. Y is also supplying
+construction material to Mr. X. Determine Value of Supply to levy of GST?
+
+Answer: 5
+
+In this case Value of construction material will be form part of value of supply. Value of supply of goods 
+or services where consideration is not wholly in money together will have a weightage of two-thirds of the
+votes cast. 
+________________________________________________________________________________________________________________
+
+Example: 6
+
+Mr. A sold a bike for Rs. 34,000 with exchange of old bike. Open Market price of the new bike is Rs. 52,000. 
+Old Bike can be sold in the market for Rs. 20,000. Determine the value of supply for the purpose of levy of GST.
+
+Answer: 6
+
+In this case Open Market Value is available. Hence, Value of Supply will be Rs. 52,000.
+________________________________________________________________________________________________________________
+
+Example: 7
+
+Mr. A sold a bike for Rs. 34,000 with exchange of old bike. Open Market price of the new bike is not available. 
+Old Bike can be sold in the market for Rs. 20,000. Determine the value of supply for the purpose of levy of GST.
+
+Answer: 7
+
+In this case Open Market Value of new bike is not available. Hence, Value of Supply will be:
+Consideration in money i.e. Rs. 34,000 + Amount in money as is equivalent to the consideration not in money 
+i.e. Rs. 20,000 = Rs. 54,000.
+________________________________________________________________________________________________________________
+
+Example: 8
+
+Mr. A sold a bike for Rs. 34,000 with exchange of old bike. Open Market price of the new bike as well as old 
+bike is not available. A bike with the same features of other company is selling in the market for Rs. 51,000.
+Determine the value of supply for the purpose of levy of GST.
+
+Answer: 8
+
+In this case Open Market Value of new bike as well as old bike is not available. Value of like kind bike of 
+another company i.e. Rs. 51,000 will be considered as value of supply.
+________________________________________________________________________________________________________________
+
+Example: 9
+
+Mr. A sold a bike for Rs. 34,000 with exchange of old bike. Open Market price of the new bike as well as old 
+bike is not available. Product of same like kind & quality is also not available in the market. Cost of 
+purchase of the bike is Rs. 47,000. Determine the value of supply for the purpose of levy of GST.
+
+Answer: 9
+
+In this case Open Market Value of new bike as well as old bike is not available. Also Value of like kind bike
+is not available. Hence, value of supply will be Cost of acquisition plus 10% i.e. 
+Rs. 47,000 + Rs. 4,700 = Rs. 51,700.
+________________________________________________________________________________________________________________
+
+Example: 10
+
+Mr. A sold a bike without consideration to Mr. B. Open Market price of the bike is Rs. 52,000. Mr. B is family
+ member of Mr. A. Determine the value of supply for the purpose of levy of GST.
+
+Answer: 10
+
+In this case Mr. A & Mr. B is related party. Hence, Value of Supply will be open market value i.e. Rs. 52,000.
+________________________________________________________________________________________________________________
+
+Example: 11
+
+X Enterprises sold a bike for Rs. 30,000 to Y Enterprises. Open Market price of the bike is Rs. 52,000. Both
+firms are registered under the same PAN. Determine the value of supply for the purpose of levy of GST.
+
+Answer: 11
+
+In this case X Enterprises & Y Enterprises is distinct person. Hence, Value of Supply will be open market 
+value i.e. Rs. 52,000.
+________________________________________________________________________________________________________________
+
+Example: 12
+
+Mr. A sold a product for Rs. 84,000 to Mr. B. Open Market price of the product is not available. A product
+with the same features of other company is selling in the market for Rs. 1,34,000. Mr. B is employee of the 
+Mr. A. Determine the value of supply for the purpose of levy of GST.
+
+Answer: 12
+
+In this case Open Market Value of the product is not available. Mr. A & Mr. B is related person. Value of 
+like kind product of another company i.e. Rs. 1, 34,000 will be considered as value of supply.
+________________________________________________________________________________________________________________
+
+Example: 13
+
+A Ltd. sold a product for Rs. 34,000 to Mr. X. Open Market price of the product is not available. Product of 
+same like kind & quality is also not available in the market. Cost of purchase of product is Rs. 50,000. 
+Mr. X holds 30% share in A Ltd. Determine the value of supply for the purpose of levy of GST.
+
+Answer: 13
+
+Mr. X is related party for A Ltd. In this case Open Market Value of the product is not available. Also Value 
+of like kind product is not available. Hence, value of supply will be Cost of acquisition plus 10% i.e. 
+Rs. 50,000 + Rs. 5,000 = Rs. 55,000.
+________________________________________________________________________________________________________________
+
+Example: 14
+
+A Ltd. sold a product for Rs. 34,000 to Mr. X. Open Market price of the product is not available. Product of 
+same like kind & quality is also not available in the market. Mr. X is selling the same like kind of product 
+to his consumer for Rs. 60,000. Mr. X holds 30% share in A Ltd. Determine the value of supply for the purpose 
+of levy of GST.
+
+Answer:14
+
+Mr. X is related party for A Ltd. In this case Open Market Value of the product is not available. Also Value
+of like kind product is not available. Value of supply will be 90% of the price charged from the consumer 
+i.e. Rs. 60,000*90% = Rs. 54,000
+________________________________________________________________________________________________________________
+
+Example: 15
+
+Mr. A second hand car dealer purchased a second hand car for Rs. 3,00,000. Dealer has sold the same to X ltd.
+for Rs. 3,50,000. Determine Value of Supply?
+
+Answer: 15
+
+Value of Supply will be difference between purchase price and sale price i.e. 3,50,000-3,00,000 = Rs. 50,000. 
+In this case Mr. A shall not issue tax invoice and X Ltd. are not eligible to take ITC.
+________________________________________________________________________________________________________________
+
+Example: 16
+
+Mr. A sold a car on finance to Mr. B on 01/01/2018 for Rs. 50,000. Due to defaulter B Car is repossessed by 
+Mr. A on 30/06/2018. Determine Value of Supply.
+
+Answer: 16
+
+In this case value of supply will be original purchase price reduced by five percentage point for every quarter
+i.e. 50,000 - 5000 = Rs. 45,000
+________________________________________________________________________________________________________________

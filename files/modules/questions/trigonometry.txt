@@ -1,0 +1,161 @@
+﻿                                  
+					======================
+					TRIGONOMETRY QUESTIONS
+					======================
+                                 
+ Question 1                                 
+                                 
+Which of the following pieces of data does not uniquely determine an acute angled triangle ABC (where R 
+is the radius of the circumcircle)
+                                    
+1. a, sin A, sin B                                                   2. a, b, c
+                                      
+3. a, sin B, R                                                       4. a, sin A, R
+                                         
+ Answer: 4                                 
+                                 
+	We shall discuss all the four parts one by one.
+                                          
+	1. When a, sin A, sin B are given it becomes possible to find the rest of the sides as
+                                         
+	b = a sin B/ sin A,                               
+        c = a sin C/ sin A
+       So, all the three sides are unique.
+                                           
+	2. The three sides can uniquely make an acute angled triangle.
+                                         
+	3. a, sin B, R is given and so the data is sufficient for computing the remaining sides and triangles.  
+                                            
+	b = 2R sin B, sin A = a sin B/b
+        So, sin C can be determined. Hence, this also implies that the side c can be uniquely determined.
+                                            
+	4. a, sin A, R is given, data is insufficient to find the other sides and angles
+           b/ sin B = c/ sin C = 2R
+           Hence, it is clear that this could not determine the exact values of a and b. 
+                                             
+                                  
+                                 
+ Question 2                                 
+                                 
+Consider a triangle ABC and let a, b and c denote the lengths of the sides opposite to vertices A, B and C 
+respectively. Suppose, a = 6, b = 10 and the area of the triangle is 15√3. If ACB is obtuse and if r denotes 
+the radius of the incircle of the triangle, then find the value of r².
+           _                                     
+ Answer: 3√3 /2                                 
+                                 
+ The two sides ‘a’ and ‘b’ of the triangle are given to be 6 and 10 respectively.
+                      _                                 
+	Now, sin C = √3/2 and C is given to be obtuse                                 
+      		       _____________________
+		 c =  √ a² + b² - 2ab cos C
+                      ____________________________
+                   = √6² + 10² – 2.6.10. cos 2π/3
+                   = 14                                 
+                 s = (a + b + c)/2
+		 s = (6 + 10 + 14)/2 = 15
+		 r = Δ/s                                 
+		   = 15√3 = 3√3
+		     ----   ---
+		      10     2                                 
+                                      
+                                 
+ Question 3                                 
+	                                 			     ____________
+ If Δ is the area of triangle with sides of length a, b and c Δ ≤ ¼ √ (a+b+c) abc.
+ Show that  abc ≥ 8(s-a)(s-b)(s-c) 
+ Also show that the equality occurs in the above inequality if and only if a = b = c.
+                                         
+ Answer:                                 
+                                 
+ The area of the triangle is Δ and the lengths of the sides are a, b and c.
+   		 	      ____________                                 
+ Now, it is given that Δ ≤ ¼ √ (a+b+c) abc
+                  _______                                 
+	 1/(4Δ). √(a+b+c) abc ≥ 1
+                                                
+So, (a+b+c)abc / (16Δ²) ≥ 1
+                                       
+   => 2sabc / (16Δ²) ≥ 1
+                                                
+   => sabc / 8s(s-a)(s-b)(s-c) ≥ 1
+   => abc/ 8 ≥ (s-a)(s-b)(s-c)
+                                             
+Now, put (s-a) = x ≥ 0, (s-b) = y ≥ 0, (s-c) = z ≥ 0
+                                 
+Hence, (s-a) + (s-b) = x + y               
+So, this gives 2x – a – b = x + y
+                                 
+	 c = x + y
+                                           
+Similarly, as a = y + z, b = x + z, so we get,
+                                             
+(x+y)/2. (y+z)/2. (x+z)/2 ≥ xyz 
+                                 
+which is true                                           
+Now equality will hold only if x = y = z i.e. only if a = b = c.
+                                             
+So, the equality will hold only if the triangle is equilateral.
+                                  
+                                 
+ Question 4                                 
+                                 
+ If cos (a+b) = 4/5, sin (a-b) = 5/13 and a and b lie between 0 to π/4, find tan 2a.
+                                               
+ Answer:                                 
+                                 
+ It is given that cos (a+b) = 4/5, sin (a-b) = 5/13
+ It follows that sin (a+b) = 3/5, cos (a-b) = 12/13
+                                               
+ Hence, tan (a+b) = 3/4 and tan (a-b) = 5/12
+                                               
+Hence, this implies
+                                                
+tan [(a+b) + (a-b)] = [tan (a+b) + tan (a-b)] / [1 + tan(a+b).tan(a-b)]
+                                            
+		    = (3/4 + 5/12)/ (1 – 3/4. 5/12)
+                                           
+Hence, tan 2a = 14/12 * 48/33 = 56/33
+                                             
+                                       
+                                                    
+                                 
+ Question 5                                 
+                                 
+ If A + B + C = 1800, prove that
+ sin (B + C – A) + sin (C + A – B) + sin (A + B – C) = 4 sin A sin B sin C.
+                                             
+                                 
+ Answer:                                 
+                                 
+sin (B + C – A) + sin (C + A – B) + sin (A + B – C) = 4 sin A sin B sin C
+                                                    
+So consider LHS = sin (B + C – A) + sin (C + A – B) + sin (A + B – C)
+                                                 
+                = sin (π– A – A) + sin (π – B – B) + sin (π– C – C)    (since A + B + C = π)
+                                                 
+		= sin 2A + sin 2B + sin 2C
+                = 4 sin A sin B sin C 
+                                                  
+                                 
+ Question 6                                 
+ Solve the equation 5 sinθ – 2 cos²θ – 1 = 0 
+                                              
+ Answer:                                 
+ Given, 5 sinθ – 2 cos²θ – 1 = 0 
+                                             
+=> 5 sinθ – 2 (1 – sin²θ) – 1 = 0 
+                                           
+=> 2 sin²θ + 5 sin θ – 3 = 0 
+                                          
+=> (sin θ + 3) (2 sin θ – 1) = 0 
+                                          
+ ∴ sin θ = 3  or  sin θ = 1/2 
+   but sin θ ≠ 3                                 
+   This is not possible as range of sine is [–1, 1]    
+                                           
+   sin θ = 1/2                                  
+=> sin θ = sin π/6 
+=> θ = n π + (–1)n π/6 
+                                             
+where n = 0, ±1, ±2 ……  
+                                 

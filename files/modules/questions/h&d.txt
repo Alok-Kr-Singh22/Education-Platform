@@ -1,0 +1,157 @@
+﻿                                  
+					============================
+					HEIGHTS & DISTANCE QUESTIONS
+					============================
+                                  
+ Question 1                                  
+                                  
+Find the height of a tree when it is found that on walking away from it 20 m  in a horizontal line through 
+its base, the elevation of its top changes from 60°  to 30°.
+                                      
+ Answer:                                  
+                                           D                                      
+                                          ∕|      ˄                               
+                                        ∕/ |      |                                
+                                      ∕ /  |      |                                
+                                    ∕  /   |      |                                
+                                  ∕   /    |      |                                
+                                ∕    /     |      |                                
+                              ∕     /      |      | x m                               
+                            ∕      /       |      |                                
+                          ∕       /        |      |                               
+                        ∕        /         |      |                                
+                      ∕         /          |      |                                
+                    ∕  30°     /  60°      |      |                              
+                  ∕_)_________/_)__________|      ˅
+		 A            B            C                           
+                      20 m
+    		 <----------->   
+                                  
+                                                                          
+  	x / BC  = tan 60°  
+ => 	BC =  x / tan 60°
+                                       
+	Similarly, from  triangle ADC 
+    	x / (20+BC)  = tan 30° 
+      	                                  
+	Substituting from above
+                                        
+	x = (20 + x / tan 60°) tan 30° 
+                                      
+	x (1- {tan   30°}{tan   60°}  ) = 30 tan 30° 
+                                         
+ =>	x = {11.547}/{0.6667} = 17.32 = 40.98 m 
+                                    
+                                       
+                                      
+ Question 2                                  
+                                  
+Find the height of a building, when it is found that on walking towards it 40 m  in a horizontal line through 
+its base the angular elevation of its top changes from 30°  to 45°.
+                                    
+ Answer:                                  
+                                       
+                                  
+                                           D                                      
+                                          ∕|      ˄                               
+                                        ∕/ |      |                                
+                                      ∕ /  |      |                                
+                                    ∕  /   |      |                                
+                                  ∕   /    |      |                                
+                                ∕    /     |      |                                
+                              ∕     /      |      | x m                               
+                            ∕      /       |      |                                
+                          ∕       /        |      |                               
+                        ∕        /         |      |                                
+                      ∕         /          |      |                                
+                    ∕  30°     /  45°      |      |                              
+                  ∕_)_________/_)__________|      ˅
+		 A            B            C                           
+                      40 m
+    		 <----------->   
+                                     
+   {h}/{BC}  = tan   45°  ⇒   h = BC 
+                                      
+Similarly, from  triangle ADB 
+                                      
+   {h}/{40+BC}  = tan 30° 
+                                      
+Substituting from above
+                                       
+h = (40+ h) /  tan 30° 
+                                     
+h / (1- tan 30°) = 40 / tan 30°
+                                      
+    h =     {40 tan 30°}/{1- tan 30°}  = 54.64 m 
+                                     
+                                       
+                                     
+ Question 3                                  
+                                  
+From the top of a light house 100 m  high, the angles of depression of two ships are observed as 48°  and 36°  
+respectively. Find the distance between the two ships (in the nearest meter) if:
+                                    
+(i) the ships are on the same side of the light house,
+(ii) the ships are on the opposite sides of the light house.
+                                     
+ Answer:                                  
+                                     
+ (i)                                      
+                 __________________________A                                      
+                                     36° (∕|      ˄                               
+                                        ∕/ |      |                                
+                                      ∕ /  |      |                                
+                                    ∕  /   |      |                                
+                                  ∕   /    |      |                                
+                                ∕    /     |      |                                
+                              ∕     /      |      | 100 m                               
+                            ∕      /       |      |                                
+                          ∕       /        |      |                               
+                        ∕        /         |      |                                
+                      ∕         /          |      |                                
+                    ∕ 36°      / 48°       |      |                              
+                  ∕)__________/)___________|      ˅
+		 D            C            B        
+                       x m
+    		  <---------->   
+                                     
+   {100}/{BC}  = tan 48°  => BC = {100}/{tan 48°} 
+                                     
+Similarly, from  triangle ADB 
+                                     
+   {100}/{DB}  = tan 36°  => DB = {100}/{tan 36°} 
+                                    
+Therefore, the distance between the ships is =
+                                     
+DB - BC  = 100 /{tan 36°} - {100}/{tan 48°} 
+                                     
+	 = 100 ({tan 48° - tan 36°}/{ tan 48° . tan 36°}) 
+                                     
+	 = 100  0.3841}/{0.8069}  = 47.60 ≈ 48 m 
+                                     
+                                  
+(ii) If the ships were on the opposite sides,
+                                           A
+                 __________________________._____________
+                                    36° ( ∕|\ ) 48°                                  
+                                        ∕  | \                                     
+                                      ∕    |  \                                    
+                                    ∕      |   \                                   
+                                  ∕        |    \                                  
+                                ∕          |     \                                 
+                              ∕            |      \                               
+                            ∕        100 m |       \                              
+                          ∕                |        \                             
+                        ∕                  |         \                             
+                      ∕                    |          \                            
+                    ∕  36°                 |      48°  \                         
+                  ∕_)______________________|__________(_\
+		 D                         B            C        
+                                     x m
+    		 <-------------------------------------->   
+                                   
+ then the distance between the ships (x) is =
+                                  
+	DB + BC = {100}/{tan   36°} + {100}/{tan   48°} 
+   	= 90.040 + 136.63 = 227.68 ≈ 228 m
+                                  

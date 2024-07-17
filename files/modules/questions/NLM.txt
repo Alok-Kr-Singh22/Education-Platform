@@ -1,0 +1,93 @@
+﻿                         
+                                    =================================
+                                    NEWTON's LAWS OF MOTION QUESTIONS
+                                    =================================
+                         
+                         
+ Q1) A ______ is anything that can change the state of motion of an object.
+a	  Mass
+b	  Force
+c	  Weight
+d	  Velocity
+e	  Temperature
+                         
+ Answer: b
+                         
+                         
+ Q2) What scientist came up with the Three Laws of Motion?
+a	  Thomas Edison
+b	  Alexander Graham Bell
+c	  Isaac Newton
+d	  Bill Gates
+e	  Leonardo da Vinci
+                         
+ Answer: c
+                         
+                         
+ Q3) Which of the following is an example of a force in physics?
+a	  Gravity
+b	  Kicking a ball
+c	  Pushing a key on a keyboard
+d	  All of the above
+e	  None of the Above
+                         
+ Answer: d
+                         
+                         
+ Q4) Which of the following is the First Law of Motion?
+a	  The greater the mass of an object, the more force it will take to accelerate the object
+b	  Any object in motion will continue to move in the same direction and speed unless forces act on it
+c	  For every action, there is an equal and opposite reaction	   
+                         
+ Answer: b
+                         
+                         
+ Q5) Which of the following is the Second Law of Motion?
+a	  The greater the mass of an object, the more force it will take to accelerate the object
+b	  Any object in motion will continue to move in the same direction and speed unless forces act on it
+c	  For every action, there is an equal and opposite reaction	  
+                         
+ Answer: a
+                         
+                         
+ Q6) Which of the following is the Third Law of Motion?
+a	  The greater the mass of an object, the more force it will take to accelerate the object
+b	  Any object in motion will continue to move in the same direction and speed unless forces act on it
+c	  For every action, there is an equal and opposite reaction	  	  
+                         
+ Answer: c
+                         
+                         
+ Q7) Which law of motion says that the harder you kick a ball, the farther it will go?
+a	  First Law of Motion
+b	  Second Law of Motion
+c	  Third Law of Motion	  	  
+                         
+ Answer: b
+                         
+                         
+ Q8) Which law of motion says that when you kick a ball, there is an equal force on your foot as there is on the ball?
+a	  First Law of Motion
+b	  Second Law of Motion
+c	  Third Law of Motion	  
+                         
+ Answer: c
+                          
+                         
+ Q9) Which law of motion says that a kicked ball would fly forever if it wasn't for forces like air friction and gravity?
+a	  First Law of Motion
+b	  Second Law of Motion
+c	  Third Law of Motion	 
+                         
+ Answer: a
+                         
+                         
+ Q10) What is the unit of measurement used in physics for force?
+a	  Liters
+b	  Kilograms
+c	  Meters
+d	  Kelvins
+e	  Newton
+                         
+ Answer: e
+                         

@@ -1,0 +1,102 @@
+﻿                                        
+						========================
+						THERMODYNAMICS QUESTIONS
+						========================
+                    
+ Q1) A piston filled with 0.04 mol of an ideal gas expands reversibly from 50.0 mL to 375 mL at a constant temperature of 
+     37.00 C. As it does so, it absorbs 208J of heat. The values of q and w for the process will be:
+     (R = 8.314 J/mol K) (ln 7.5 = 2.01)
+                   
+ (1) q = – 208 J, w = – 208 J
+ (2) q = – 208 J, w = + 208 J
+ (3) q = + 208 J, w = + 208 J
+ (4) q = + 208 J, w =– 208 J 
+                
+ Answer: 4
+                            
+ Solution:
+		For isothermal process, ΔU = 0
+        	Process is isothermal reversible expansion, hence ΔE =0
+         	U = 0.
+          	So, Using 1st law of thermodynamics
+                      
+		q = -W
+       		or
+         	w = -q = -208 J
+                          
+                  
+                     
+                          
+ Q2) For an ideal gas, consider only P-V work in going from an initial state X to the final state Z. The final state Z can
+     be reached by either of the two paths shown in the figure. Which of the following choice(s) is(are) correct?
+     [Take ΔS as change in entropy and w as work done]
+                          
+        ^           
+        |   x         y
+        |   --------
+        |   \      |
+        |    \     |
+        |     \    |
+      P |      \   |
+        |       \  |
+        |        \ |
+        |         \|
+        |            z
+        |          
+        |_____________________>
+                 v
+                    
+ 1) ΔS x→z = ΔS x→y + ΔS y→z
+ 2) w x→z = w x→y + w y→z
+ 3) w x→y→z = w x→y
+ 4) ΔS x→y→z = ΔS x→y
+                   
+ Answer: 1 & 3
+                    
+ Solution:
+		Entropy  being a state function shows additive property.
+            	Hence,
+            	ΔS x→z = ΔS x→y + ΔS y→z
+                   
+		For the process Y →Z pressure is constant.
+                W = -pΔV
+              	At constant pressure
+              	W =0
+            	Hence,
+		w x→y→z = w x→y
+                             
+                       
+                   
+                       
+ Q3) The standard enthalpies of formation of CO₂(g), H₂O(l) and glucose(s) at 25°C are–400 kJ/mol, –300 kJ/mol and –1300 kJ/mol,
+     respectively. The standard enthalpy of combustion per gram of glucose at 25°C is
+                   
+ a) +2900 kJ
+ b) -2900 kJ
+ c) +16.11 kJ
+ d) -16.11 kJ
+                 
+ Answer: c.
+                   
+ Solution:
+		   Formation of CO₂ :		C (graphite) + O₂ (g)→ CO₂ (g)   		 	ΔH₁= -400 kJ …………(1)
+                                      
+		   Formation of H₂O :		H₂ (g) + O₂ (g) → H₂O (l)   				ΔH₂= -300 kJ …………(2)
+                                   
+		Formation of C₆H₁₂O₆:		6C (graphite) + 3O₂ (g) + 6H₂( g)  → C₆H₁₂O₆ (s)	ΔH₃= -1300 kJ ………(3)
+                              
+		6×Equation (1) + 6×Equation (2) - Equation (3)
+           	We get,
+                            
+						C₆H₁₂O₆ (s)    + 6O₂ (g) → 6CO₂ (g) + 6H₂O (l)    ………(4)
+            					
+						ΔH₄= 6×(-400) + 6×(-300)- (-1300) = 2900 kJ/mol
+                             
+		Equation number 4 represents the equation for combustion of 1 mole of glucose so, the enthalpy change for the reaction
+		i.e. ΔH₄ is the enthalpy of combustion of glucose.
+                          
+		Enthalpy change for combustion of 1 mole i.e. 180 gm glucose = 2900 kJ
+           	So, enthalpy change for combustion of 1 gm glucose =  2900/180 = 16.11 kJ.
+                          
+		Hence, the correct option is c.
+                                

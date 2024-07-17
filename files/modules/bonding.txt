@@ -1,0 +1,431 @@
+﻿
+                                                 ================
+                                                 CHEMICAL BONDING
+                                                 ================
+
+ Chemical bond is the attractive force which holds various constituents together in a molecule.
+
+ There are three types of chemical bonds:
+
+           	 Ionic Bond		           Covalent Bond	    		 Co-ordinate Bond
+
+
+
+						   ----------
+						   IONIC BOND
+						   ----------
+1.NaCl
+             Na                      +                     Cl
+
+                                              *     *
+     *      *                                 *     *                                            
+                                                                       
+*               *                       *               *   *                                       -
+    *   +   *      *                  *      *   +   *                 -------------->     Na⁺Cl⁻
+*               *                       *                *   *    
+                                              
+     *      *                                 *     *      
+                                              *     *
+2.MgO
+
+           Mg                       +                    O
+
+        *      *                                       *      *                                                                                                             
+                                                                       
+   *               *   *                                  *        *                                              
+       *   +   *                                          +                              -------------->     Mg²⁺O²⁻
+   *               *   *                                           *
+                                                          *
+       *      *                                       *      *       
+
+      
+
+       						 -------------
+                                                 COVALENT BOND
+						 -------------
+1.
+       CCl₄
+
+                                                                  Cl
+                                                                  |   
+                                                           Cl --- C --- Cl
+                                                                  |
+                                                                  Cl
+                                              
+2. H₂O
+
+                                                                   O
+                                                                 /   \                                          
+                                                                H     H
+
+3. NH₃
+                                                                 H
+                                                                 |
+                                                           H --- N --- H
+             
+
+					    
+					     ----------------
+                                             CO-ORDINATE BOND
+					     ----------------
+               
+1.  NH₄⁺                             _                              _   +
+                                    |               H                |   
+                                    |               |                | 
+                                    |         H --- N ---> H         |
+                                    |              * *               |
+                                    |_              H               _|
+
+
+
+ Octet Rule: Atoms form chemical bonds in order to complete their octet i.e. eight electrons in their valence shell.
+ ----------
+ Exceptions to the Octet Rule:
+ •	Species with odd number of electrons: NO, NO₂,
+ •	Incomplete octet for the central atom:  LiCl, BeH₂ and BCl₃
+ •	Expanded octet for the central atom: PF₅, SF₆ and H₂SO₄
+
+ Lewis Structures:
+ ----------------
+ •	Pair of bonded electrons is by means of a ‘dash’ (-) usually called a ‘bond’.
+ •	Lone pairs or ‘non-bonded’ electrons are represented by ‘dots’.
+ •	Electrons present in the last shell of atoms are called valence electrons.
+             
+
+ Formal Charge: Formal charge is the difference between the number of valence electrons in an isolated atom and number
+ -------------  of electrons assigned to that atoms in Lewis structure.
+
+ Formal charge = [Total number of valence electrons in the free atom ) - (Total number of lone pairs of electrons)
+                 -1/2(Total number of shared electrons i.e. bonding electrons)]
+
+
+
+						      ---------
+                                                      Resonance
+						      ---------
+•	For molecules and ions showing resonance it is not possible to draw a single Lewis structure.
+•	All the properties of such species can only be explained  by two or more Lewis structures.
+
+	 Example: Resonance of O₃
+	       ..           ..           ..
+	       o            o             o
+	     // \ ..       / \\..       // \\
+	    :o    o:     :o    o:      :o    o:
+	    ··    ··     ··    ··      ··    ··
+	       A            B             C
+       
+	A and B are resonating or canonical structures and C is the resonance hybrid
+
+
+
+						     -------------
+						     Ionic Bonding
+						     -------------
+
+ -> Formation of Ionic Bond:
+ Ionic bond forms between a metal and a non-metal by transfer of electron.
+ 
+ Steps involved in formation of an ionic bond: :
+ ---------------------------------------------------------------------------------------------------------------------------
+ |                            Steps	                      |              Equation	           |      Energy involved  |
+ |------------------------------------------------------------|------------------------------------|-----------------------|
+ |                  Formation of gaseous cations              |  A(g) + I.E.    --> A+ (g) + e`	   |     Ionization Energy |
+ |                  Formation of gaseous anions	              |  X(g) + e`      --> X- (g) + E.A   |     Electron Affinity |
+ |  Packing of ions of opposite charges to form ionic solids  |	 A+ (g) + X (g) --> AX (s) +Energy |	 Lattice energy    |
+ ---------------------------------------------------------------------------------------------------------------------------
+ 
+ -> Conditions required of formation of ionic bonds:
+ •	Low I.E of cation.
+ •	High E.A of anion.
+ •	High lattice energy.
+
+
+
+						     ----------------
+                                                     Covalent Bonding
+						     ----------------
+
+ •	Covalent bond is formed between two non-metals by sharing of electrons.
+ •	Electron pairs which participate in bonding are called bond pairs.
+ •	Electron pairs which do not participate in bonding are called lone pairs.
+ •	There could be single, double or triple covalent bonds between two elements depending on the number of electrons
+        being shared.
+                         
+
+
+				----------------------------------------------------
+				VSEPR (Valence Shell Electron Pair Repulsion) Theory
+				----------------------------------------------------
+
+ •	The shape of the molecule is determined by repulsions between all of the electron pairs present in the valence shell.
+ •	Order of the repulsion: 
+					Lone pair ↔ Lone pair > Lone pair ↔ Bond pair > Bond pair ↔ Bond pair.
+
+ •	Repulsion among the bond pairs is directly proportional to the bond order and  electronegativity difference between
+        the central atom and the other atoms.
+
+ Determination of shape of molecules using VSEPR theory:
+ ------------------------------------------------------
+ •	Calculate X using following method.
+ 
+ X = (No. of valence electrons of central atom) + (No. of other atoms) + (-ve charge on the molecule) – (+ve charge on the molecule)
+
+ •	Use the following chart to find the shape.
+				    ---------------------------------------------------------
+				    |   X  |	       Shape	      |         Examples    |
+				    |------|--------------------------|---------------------|
+			            |	2  |	Linear	              |      HgCl₂  BeCl₂   |
+			            |  	3  |	Triangular planar     |	     BF₃            |
+			            |	3  |	Angular	              |      SnCl₂  NO₂     |
+			            |	4  |	Tetrahedral	      |      CH₄    BF₄-    |
+			            |	4  |	Trigonal Pyramidal    |	     NH₃    PCl₃    |
+			            |	4  |	Angular               |      H₂O            |
+			            |	5  |	Trigonal bipyramidal  |      PCl₅   PF₅     |
+			            |	5  |	Irregular tetrahedral |      SF₄    IF₄+    |
+			            |	5  |	T-shaped              |      CIF₃   BrF₃    |
+			            |	5  |	Linear                |      XeF₂   I₃-     |
+			            |	6  |	Octahedral            |      SF₆    PF₆-    |
+			            |	6  |	Square Pyramidal      |      IF₅            |
+			            |	6  |	Square planar         |      XeF₄   ICl₄    |
+				    ---------------------------------------------------------
+
+
+
+							Fajan's Rule
+							------------
+ It accounts for the covalent character in ionic compounds.
+ Covalency is favoured by
+ •	Smaller cation
+ •	Larger anion and
+ •	Large charge on either ion.
+
+
+							Dipole Moment
+							-------------
+ •	Dipole moment of any bond is the product of the net positive or negative charge and distance between the two charged
+	ends, i.e., the bond length. i.e.
+
+	Dipole moment (m) = electronic charge (e) × Distance (d) Dipole moment is measured in debye unit (D);
+
+	• Dipole moment of a molecule is vector addition of all the individual bond moments.
+
+
+
+ Percentage Ionic Character
+ --------------------------
+
+						   Observed Dipole Moment
+		The percent ionic character =	---------------------------  * 100
+						   Expected Dipole Moment
+
+
+
+
+
+							----------------
+							Hydrogen Bonding
+							----------------
+
+•	Hydrogen bond is an electrostatic attractive force between covalently bonded hydrogen atom of one molecule or a part
+	of a molecule and an electronegative atom (such as F,O, N) of another molecule (Inter-molecular hydrogen bonding) or
+	another part of the same molecule (intramolecular hydrogen bonding).
+
+•	Inter-molecular hydrogen bonding increases boiling point of the compound and also its water solubility
+•	Intra-molecular hydrogen bonding decreases the boiling point of the compound and also its water solubility
+ 
+
+
+
+
+						    -------------------------
+						    Valence bond theory (VBT)
+						    -------------------------
+
+•	A covalent bond is formed by overlapping of valence shell atomic orbital of the two atoms having unpaired electron.
+•	There is maximum electron density between the bonding atoms.
+•	Greater the overlapping of atomic orbital higher is the strength of chemical bond.
+
+•	π-bond : The bond formed by lateral overlap of two atomic orbitals having maximum overlapping on both sides of the line
+		 connecting the centres of the atoms is called a π-bond. A π-bond possess a plane of symmetry, often referred to
+		 as the nodal plane.
+•	σ-bond : When covalent bond is formed by overlapping of atomic orbitals along the same axis it is called σ-bond. Such type
+		 of bond is symmetrical about the line joining the two nuclei
+
+ Example :
+ -------
+ (a) s-s overlapping
+          
+     * *             * *                       * *   * *                     * ** *
+   *     *         *     *                   *     *     *                 *        *
+  *   @   *       *   @   * ==========>     *  @  * *  @  * ===========>  *  @   @   *
+  *       *       *       *                 *     * *     *               *          *
+   *     *         *     *                   *     *     *                 *        *
+     * *             * *                       * *   * *                     * ** *
+      s               s
+   
+   
+ (b) s-p overlapping
+
+
+     * *          * *        * *                        * *     * *        * *                       * *     
+   *     *      *     *   *      *                    *     * *     *   *      *                   *      *   * *
+  *       *    *        *         *  ===========>    *     *   *      *         *  ===========>   *         *    *
+  *       *    *        *         *                  *     *   *      *         *                 *         *    *
+   *	 *      *     *   *      *                    *     * *     *    *     *                   *      *   * *
+     * *          * *        * *                        * *     * *        * *                       * *
+ 
+ 
+ (c) p-p overlapping
+ 	 
+     * *       * *           * *       * *                      * *       * *   * *        * *                        *  *
+   *     *   *     *       *     *   *     *                  *     *   *     *     *   *      *              * *   *      *   * *
+  *        *        *     *        *        * =========>     *        *      * *      *         * =========> *    *          *    *
+  *        *        *     *        *        *                *        *      * *      *         *            *    *          *    *
+   *     *   *     *       *     *   *     *                  *     *   *     *     *   *      *              * *   *      *   * *
+     * *       * *           * *       * *                      * *       * *   * *        * *                        *  *
+
+
+ •	The strength of a bond depends upon the extent of overlapping of half-filled atomic orbitals. The extent of overlapping is
+	between two atoms is always greater when there is end to end overlapping of orbitals than, when there is sidewise overlapping
+	of oritals.
+ •	Hence σ-bond is always stronger than π-bond.
+ 
+
+
+
+
+
+							   -------------
+							   Hybridization
+							   -------------
+
+ •	The mixing of dissimilar orbital of similar energies to form new set of hybrid orbital.
+ •	Number of hybrid orbital formed is equal to the no. of orbital taking part in hybridization.
+ 
+ •	Depending upon the different combination of s and p orbitals, these types of hybridization are known :
+
+	sp³ hybridization : In this case, one s and three p orbitals hybridise to form four sp³ hybrid orbitals. These four
+	-----------------   sp3 hybrid orbitals are oriented in a tetrahedral arrangement.
+ 
+	sp² hybridization : In this case one s and two p orbitals mix together to form three sp² hybrid orbitals and are oriented
+	-----------------   in a trigonal planar geometry.          
+ 			    • The remaining p orbital if required form side ways overlapping with the other unhybridized p orbital
+			      of other C atom and leads to formation of H₂C = CH₂ bond as in ethene
+	
+	 sp hybridization : In this case, one s and one p orbital mix together to form two sp hybrid orbitals and are oriented in
+	 ----------------   a linear shape.          
+ 			    • The remaining two unhybridised p orbitals overlap with another unhybridised p orbital leading to the
+			      formation of triple bond as in HC ≡ CH  
+
+				    --------------------------------------------------------------------------------------
+				    |   Hybridization  |  Total Number of orbitals taking part  |          Shape         |
+				    |------------------|----------------------------------------|------------------------|
+			            |	     sp        |		   2	              	|          Linear        |
+			            |  	     sp²       |	           3			|     Trigonal planar    |
+			            |	     sp³       |	     	   4			|       Tetrahedral      |
+			            |	    sp³d       |	  	   5		  	|  Trigonal bi-pyramidal |
+			            |	    sp³d²      |	       	   6			|	 Octahedral      |
+				    --------------------------------------------------------------------------------------
+
+
+
+
+
+							--------------------
+							Bond Characteristics
+							--------------------
+
+ Bond Length
+ -----------
+ • The distance between the nuclei of two atoms bonded together is called bond length.
+ • It is expressed in angstrom (Å) units or picometer (pm).
+
+	•	Bond length in ionic compound = rc+ + ra–
+	•	Bond length in covalent compound (AB) = rA + rB
+
+ Important features of bond length
+	i)  The bond length of the homonuclear diatomic molecules are twice the covalent radii.
+
+	ii) The lengths of double bonds are less than the lengths of single bonds between the same two  atoms,
+ 	  and triple bonds are even shorter than double bonds.
+			Single bond > Double bond > Triple bond (decreasing bond length)
+
+	iii) Bond length decreases with increase in s-character since s-orbital is smaller than a p – orbital. 
+	sp³ C – H   = 1.112 Å:                    sp² C = H   = 1.103 Å;                   sp C ≡ H   = 1.08 Å;
+    (25% s-character as in alkanes)        (33.3% s-character as in alkenes)       (50% s-character as in alkynes)
+
+	iv) Bond length of polar bond is smaller than the theoretical non-polar bond length.
+
+
+ Bond Angle
+ ----------
+ Bond angle is the angle between two adjacent bonds at an atom in a molecule made up of three or more atoms.
+ 
+ Bond angles mainly depend on the following three factors:
+
+ i) Hybridization : Bond angle depends on the state of hybridization of the central atom
+				    -------------------------------------------------------
+				    |   Hybridization   |    Bond Angle   |     Example   |
+				    |-------------------|-----------------|---------------|
+			            |	     sp³        |      109°28'	  |      CH₄      |
+			            |  	     sp²        |       120°      |      BCl₃     |
+			            |	     sp         |	130°      |      BeCl₂    |
+				    -------------------------------------------------------
+ ii) Generally s-character increase in the hybrid bond, the bond angle increases.
+
+ iii) Lone pair repulsion : Bond angle is affected by the presence of lone pair of electrons at the central atom.nA lone pair of
+ 			 electrons at the central atom always tries to repel the shared pair (bonded pair) of electrons. Due to
+			 this, the bonds are displaced slightly inside resulting in a decrease of bond angle.
+
+ iv) Electronegativity : If the electronegativity of the central atom decreases, bond angle decreases.
+
+
+ Bond Energy or Bond Strength
+ ----------------------------
+	 •	The amount of energy required to break a bond in molecule is called bond energy.  
+	 •	Bond energy of σ-bond is more than that of a π-bond.
+	 •	Bond energy increases with decrease in bond length.
+						C ≡ C > C = C > C – C (decreasing bond length)
+						s < p < sp < sp² < sp³
+
+	 •	The bond energy decreases with increase in number of lone pairs on the bonded atom.
+
+
+
+
+
+
+						 ------------------------
+						 Molecular Orbital Theory
+						 ------------------------
+
+ •	Molecular orbital are formed by  linear combination of atomic orbital (LCAO)
+ •	Atomic orbital of all the atoms are assumed to interfere with each other in the form of waves.
+ •	Bonding  molecular orbital are  formed by  constructive interference  of atomic orbital.
+ •	Anti-bonding orbital are formed by destructive interference of atomic orbital.
+ •	Anti-bonding MO is of higher energy than Bonding MO.
+    
+	• Bond Order = 1/2 (no. of bonding electrons - No. of anti-bonding electrons).
+ 
+				Application of MOT to Homonuclear Diatomic Molecules
+	----------------------------------------------------------------------------------------------------------------
+	|  Species  |  Total no. of electrons  |   Electronic configuration   |  Bond order  |    Magnetic Behaviour   |
+	|-----------|--------------------------|------------------------------|--------------|-------------------------|
+	|    H₂⁺    |	        1              |              σ₁ₛ¹            |  (1-0)/2 =½  |      Paramagnetic       |
+	|    H₂	    |    	2	       |              σ₁ₛ²            |  (2-0)/2 = 1 |      Diamagnetic        |
+	|    He²⁺   |		3	       |           σ₁ₛ²,σ*₁ₛ¹          |  (2-1)/2 = ½ |     Paramagnetic        |
+	|    He₂    | 		4	       |           σ₁ₛ²,σ*₁ₛ²          |  (2-2)/2 = 0 | Molecule does not exist |
+	|    O₂	    |  		16	       | σ₂ₛ², σ*₂ₛ², σ₂ₚ², π₂ₚ⁴, π*₂ₚ² |  (10-6)/2 =2 |     Paramagnetic        |
+	----------------------------------------------------------------------------------------------------------------
+
+				Application of MOT to Heteronuclear Diatomic Molecules
+	        	----------------------------------------------------------------------
+			|  Molecules/Ions  |  Total No. of electrons  |  Magnetic behaviour  |
+		        |------------------|--------------------------|----------------------|
+			|	CO	   |            14	      |     Diamagnetic      |
+			|	NO	   |            15	      |     Paramagnetic     |
+			|	NO⁺	   |            14	      |     Diamagnetic      |
+			|	NO⁻	   |            16	      |     Diamagnetic      |
+			|	CN	   |            13	      |     Paramagnetic     |
+			|	CN⁻	   |            14	      |     Diamagnetic      |
+        		----------------------------------------------------------------------

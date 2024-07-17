@@ -1,0 +1,72 @@
+﻿                                                 
+                                       ===========================
+                                       PROJECTILE MOTION QUESTIONS
+                                       ===========================
+                        
+ Q1) Calculate the vertical velocity of an object thrown downwards at
+     23 ms-1 after 2.0 s.
+                        
+ Answer:       v = 23 - 9.8(2)
+       		 = 3.4 m/s
+                        
+ Q2) A ball is thrown vertically upwards with speed u. It reaches a height
+    of 15 metres. Calculate u.
+                        
+ Answer:                         
+		 2as = v²- u²
+   		 2(-9.8)(15) = 0 - u²
+		 294 = u²
+    		 u ≈ 17 m/s
+                        
+ Q3) A stone is dropped down a well. It hits the water 2.5 seconds later.
+     Find the depth of the well.
+                        
+ Answer:                         
+		s = ut + ½ at²
+ 		s = - 4.9 t² =  -4.9 (2.5)² ≈ -31
+		Depth ≈ 31 m
+                        
+ Q4) An object is in the air for 3.6 s. It was launched from a tower
+     horizontally with velocity 8 m/s
+                             
+     (a) how far away from the tower does it land?
+     (b) what angle with the horizontal does the final velocity have?
+                        
+ Answer:                         
+		(a) Horizontal motion:
+		   s = 8(3.6)
+		   s = 28.8
+		   s ≈ 29m
+		(b) vᵧ = -9.8(3.6) = -35.28
+		    vₓ = 8
+     		    Angle = tan⁻¹ (35.28/8)
+      			  = 77°  below horizontal
+                        
+ Q5) A stone is catapulted from ground level. Its initial velocity has
+     horizontal component 30 m/s and vertical component 40 m/s
+                        
+Find:                        
+(a) Its initial speed
+(b) Its speed 3 seconds after it is projected
+(c) The maximum height it reaches
+(d) Its horizontal range
+                        
+ Answer:
+                        
+	(a) 30² + 40² = vᵢ² m/s
+	    => vᵢ² = 50 m/s
+                        
+        (b) vₓ = 30 m/s, vᵧ = 40 − 9.8(3) = 10.6 m/s
+    	    v² = 30² + 10.6²
+    	    v ≈ 32 m/s
+                           
+	(c) Using 2as = v² - u² vertically
+            2(-9.8)s = 0 − 40²
+     	    s = 1600/19.6 ≈ 82 m
+                            
+	(d) Using s = ut + ½ at² vertically
+    		  0 = 40t − 4.9t²
+          	  0 = t (40 − 4.9 t)
+                  t = 40/4.9 = 8.1633 seconds
+     So range = 30 (8.1633) ≈ 240 m
+                        

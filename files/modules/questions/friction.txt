@@ -1,0 +1,75 @@
+﻿                               
+                                                ========
+						FRICTION
+                                                ========
+                               
+ Question 1:- If a surface is smoothened, how will it affect the angle of friction:
+                               
+(a) it will decrease                           (b) it will increase
+(c) proportional to each other                 (d) none
+                               
+ Answer: a                               
+                               
+ Question 2:- Angle of friction and angle of repose are:
+                               
+(a) equal to each other                        (b) not equal to each other
+(c) proportional to each other                 (d) none
+                               
+ Answer: a                               
+                               
+ Question 3:- Which is a suitable method to decrease friction:
+                               
+(a) ball and roller bearing                    (b) lubrication
+(c) polishing                                  (d) all of the above
+                               
+ Answer: d                               
+                               
+ Question 4:- Friction can be:
+                               
+(a) completely avoided                         (b) minimized
+(c) cannot be minimized                        (d) of conservative nature
+                               
+ Answer: b                               
+                               
+ Question 5:- If the normal reaction is doubled, what happens to the co-efficient of friction between the two surfaces:
+                               
+(a) it is doubled                              (b) it is halved
+(c) it remains unchanged                       (d) none of the above
+                               
+ Answer: c                               
+                               
+ Question 6:- A block of Mass M is moving with a velocity v on straight surface.What is the shortest distance
+ and shortest time in which the block can be stopped if μ is coefficent of friction
+                               
+a. v²/2μg,  v/μg
+b. v²/μg,   v/μg
+c. v²/2Mg,  v/μg
+d  none of the above
+                               
+ Answer: a                               
+		Force of friction opposes the motion
+		Force of friction=μN=μmg
+		Therefore retardation =μmg/m=μg
+		From v² = u² + 2as
+		or                               
+		S=v²/2μg
+		from v=u+at
+		or t=v/μg
+                               
+ Question 7:-A horizontal force of F N is necessary to just hold a block stationary against a wall. The coefficient
+ of friction between the block and the wall is μ. The weight of the block is 
+                               
+a.μF                               
+b. F(1+μ)                               
+c. F/μ                               
+d none of these
+                               
+ Answer: a                               
+		Let W be the weight
+		Reaction force = F
+		Weight downward = W
+		weight Upward = frictional force= μr = μF
+		For no movement
+		weight Upward = Weight downward
+		W=μF                               
+                               

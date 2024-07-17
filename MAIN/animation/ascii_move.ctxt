@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ascii_move
+comment1.params=br\ space\ spd\ s
+comment1.target=void\ print(java.io.BufferedReader,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ anime()
+comment3.params=file1\ file2
+comment3.target=void\ anime(java.lang.String,\ java.lang.String)
+comment4.params=file
+comment4.target=void\ sound(java.lang.String)
+numComments=5

@@ -1,0 +1,144 @@
+﻿
+                                        ==================
+                                        PRJOJECTILE MOTION
+                                        ==================
+
+
+Projectile is any object thrown into the space upon which the only acting force is the gravity. 
+In other words, the primary force acting on a projectile is gravity. This doesn’t necessarily 
+mean that the other forces do not act on it, just that their effect is minimal compared to gravity.
+The path followed by a projectile is known as trajectory. A baseball batted or thrown and the 
+instant the bulllet exits the barrel of a gun are all examples of projectile.
+
+
+
+                        What is Projectile Motion ?
+			-------------------------
+
+When a particle is thrown obliquely near the earth’s surface, it moves along a curved path
+under constant acceleration that is directed towards the center of the earth (we assume 
+that the particle remains close to the surface of the earth). 
+
+The path of such particle is called a projectile and the motion is called as projectile motion.
+ Air resistance to the motion of the body is to be assumed absent in projectile motion.
+
+In a Projectile Motion, there are two simultaneous independent rectilinear motions:
+
+1.	Along x-axis: uniform velocity, responsible for the horizontal (forward) motion
+                                        of the particle.
+2.	Along y-axis: uniform acceleration, responsible for the vertical (downward) 
+                                            motion of the particle.
+
+
+Accelerations in the horizontal & vertical direction of a particle in projectile motion: 
+
+When a particle is projected in the air with some speed, the only force acting on it 
+during its time in the air is the acceleration due to gravity (g). This acceleration 
+acts vertically downward. There is no acceleration in the horizontal direction which
+ means that the velocity of the particle in the horizontal direction remains constant.
+Let us consider a ball projected at an angle θ with respect to horizontal x-axis with 
+the initial velocity u as shown below:
+
+
+
+
+
+ 
+	^ Y
+	|
+	|
+	|
+	|
+	|                                A
+	|                          →     →     →
+	|                    ↗                      ↘ 
+	|                ↗                              ↘
+	|            ↗                                      ↘
+	|        ↗                                              ↘
+	|    ↗                                                     ↘                                                
+	|↗__)θ________________________________________________________↘__________ X
+        O                                                              B                                           
+
+ • The point O is called the point of projection
+ • θ is the angle of projection and 
+ • OB = Horizontal Range or Simply Range. 
+ • The total time taken by the particle from reaching O to B is called the time of flight.
+
+For finding different parameters related to projectile motion, we can make use of different
+equations of motions:
+
+1.	v = u – gt 
+2.	s = ut – ½ gt²
+3.	v² = u² – 2gs
+
+Total Time of Flight: Resultant displacement (s) = 0 in Vertical direction. 
+--------------------  Therefore, by using the Equation of motion:
+
+			  gt² = 2(uᵧt – sᵧ)         [Here, uᵧ = u sinθ and sᵧ = 0]
+		          gt² = 2t * u sin θ
+			  t = 2u sin θ / g
+
+Horizontal Range: 
+----------------
+Horizontal Range (OA) = Horizontal component of  velocity (uₓ) × Total Flight Time (t)
+
+			R = u cosθ * 2u sinθ /g
+			R= u² sin 2θ / g
+
+Maximum Height: It is the highest point of the trajectory (point A). When the ball is at point A,
+--------------  the vertical component of the velocity will be zero. i.e. 
+		 
+0 = (u sin θ)² – 2g Hₘₐₓ [s = Hₘₐₓ , v = 0 and u = u sin θ]
+
+Therefore in a projectile motion the Maximum Height is given by (Hmax):
+
+			Hₘₐₓ = u² sin²θ / 2g
+
+
+
+				The equation of Trajectory
+				--------------------------
+
+Let, the position of the ball at any instant (t) be M (x, y). 
+Now, from Equations of Motion:
+x = t * u cosθ 			. . . . . . (1)
+y = u sinθ * t –  ½ gt² 	. . . . . . (2)
+
+
+On substituting Equation (1) in Equation (2):
+
+		 _______________________________________
+		|			 gx²		|
+		|	y = x tanθ –  ___________	|
+		|		      (2u² cos²θ)	|
+		|_______________________________________|
+
+This is the Equation of Trajectory in a projectile motion, and it proves that the 
+projectile motion is always parabolic in nature.
+
+More About Projectile Motion:
+
+Projectile motion is a type of two-dimensional motion or motion in a plane. 
+It is assumed that the only force acting on a projectile (the object experiencing 
+projectile motion) is the force due to gravity.
+
+But how can we define projectile motion in the real world? How are the concepts 
+of projectile motion applicable to daily life? Let us see some real-life examples of 
+projectile motion in two dimensions :
+
+	All of us know about basketball. To score a basket, the player jumps a little and 
+	throws the ball in the basket. The motion of the ball is in form of a projectile. 
+	Hence it is referred as projectile motion. What advantage does jumping gives 
+	to their chances of scoring a basket? Now apart from basketballs, if we throw 
+	a cricket ball, a stone in a river, a javelin throw, an angry bird, a football or 
+	a bullet, all these motions have one thing in common. They all show projectile 
+	motion. And that is, the moment they are released, there is only one force acting 
+	on them- the gravity. It pulls them downwards, thus giving all of them an equal 
+	impartial acceleration .
+
+It implies that if something is being thrown in the air, it can easily be predicted
+how long the projectile will be in the air and at what distance from the initial 
+point it will hit the ground. If the air resistance is neglected, there would be no 
+acceleration in the horizontal direction. This implies that as long as a body is 
+thrown near the surface, the motion of the body can be considered as a 
+two-dimensional motion, with acceleration only in one direction. 

@@ -1,0 +1,66 @@
+﻿                                                      
+					  ===========================
+					  ORGANIC CHEMISTRY QUESTIONS
+					  ===========================
+                               
+ Q1) In alklyne (C₃H₄), the type(s) of hybridization of the carbon atoms is (are)
+                         
+a. sp & sp³
+b. sp and sp²
+c. only sp²
+d. sp² and sp³
+                        
+ Answer: b
+                     
+ Solution:
+	   Allene are the molecules in which at least one C has double bonds with each of the adjacent carbon atoms.
+	   The central carbon forms two sigma and two pi bonds with the two adjacent carbon atoms, so the central
+	   carbon is sp and the two terminal carbons are sp² hybridised.
+	   Hence, the correct option is B.
+                           
+                           
+                           
+ Q2) The synthesis of 3-octyne is achieved by adding a bromoalkane into a mixture of sodium amine and an alkyne.
+     The bromoalkane and alkyne respectively are
+                                      
+a. BrCH₂CH₂CH₂CH₂CH₃ & CH₃CH₂C≡CH
+b. BrCH₂CH₂CH₃ & CH₃CH₂CH₂C≡CH
+c. BrCH₂CH₂CH₂CH₂CH₃ & CH₃C≡CH
+d. BrCH₂CH₂CH₂CH₃ & CH₃CH₂C≡CH
+                                    
+ Answer: d                           
+                                      
+ Solution:
+	 3-octyne contains a triple bond at carbon number 3. This indicates that both the reacting molecules must
+	 contain four carbon atoms. The only option in which both the molecules have four carbon atoms is d.
+	 Reactions involved are
+					CH₃CH₂C≡CH + NaNH₂ --> CH₃CH₂C≡CNa
+					CH₃CH₂C≡CNa + BrCH₂CH₂CH₂CH₃ →CH₃CH₂C≡CCH₂CH₂CH₃
+                           
+                           
+ Q3)  	Compound (A) gives positive Lucas test in 5 minutes when 6.0 gm of (A) is treated with Na metal, 1120 ml of
+      	H₂ is evolved at STP. Assuming (A) to contain one of oxygen per molecule, write structural formula of (A).
+	Compound (A) when treated with PBr₃ gives (B) which when treated with benzene in prsence of anhydrous AlCl₃
+	gives (C). What is (A) ?
+                                    
+ Answer:
+                            
+ Solution:
+                                      
+ i) A gives Lucas test within 5 min. and thus (A) is secondary alcohol           
+ ii) (A) contains one O-atom and thus, only one O-H group in (A).
+                                      
+		     Thus, (A) is CₙH₂ₙ₊₁ OH.
+                                      
+ iii) Since, 1120 ml of H2 is given by the action of Na over 6 gm (A)
+      11200 ml H₂ is given by the action of Na = (6×11200)/1120  = 60 gm (A)
+                                 
+	         M.wt. of (A) is 60
+                                        
+      Since one mole of an alcohol having one OH group gives 11200 ml H₂ at STP with Na.
+                                                                      
+ iv) CₙH₂ₙ₊₁OH = 60
+				n = 3
+                                                      
+	or (A) is C₃H₇OH; being secondary alcohol its formula is CH₃CHOHCH₃
+                             

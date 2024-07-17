@@ -1,0 +1,149 @@
+﻿
+                                             =======================
+                                             NEWTON's LAWS OF MOTION
+                                             =======================
+
+
+	Momentum:- Momentum of a particle (p) is equal to the mass of the particle (m) times velocity 
+      		   of the particle (v). 
+						p = mv
+
+
+					    ---------------------
+					    Newton laws of Motion
+					    ---------------------
+________________________________________________________________________________________________________ 
+
+	First Law (Law of Inertia): 
+	--------------------------
+ Everybody continues in its state of rest or of uniform motion in a straight line unless it is compelled
+ by some external force to change that state. 
+________________________________________________________________________________________________________
+
+	Second Law:
+	---------- 
+ The rate of change of momentum of a body is directly proportional to the impressed force and takes place
+ in the direction of the force.
+					   Δp
+				     F =   --
+					   Δt
+
+ This results force acting a body F is equal to the mass of the body m times acceleration of the body a.
+					
+				     F = ma
+________________________________________________________________________________________________________
+
+	Third Law:
+	---------
+ To Every action there is an equal and opposite reaction.
+
+					Fₐᵦ = - Fᵦₐ 
+________________________________________________________________________________________________________
+
+
+
+						-------
+						Impulse
+						-------
+ Impulse of a force is defined as the change in momentum produced by the force and it is equal to the product
+ of force and the time for which it acts. 
+						
+						J = Ft = mv – mu
+
+
+
+				--------------------------------------
+				Apparent weight of a man inside a lift
+				--------------------------------------
+       __________________ 	    __________________ 	 	   __________________ 
+      |                  |	   |                  | 	  |                  |
+      |                  |	   |                  | ˄	  |                  | |
+      |                  |	   |                  |	|	  |                  | |
+      |                  |	   |                  |	| a	  |                  | | a
+      |        O         |	   |        O         |	|	  |        O         | |
+      |       /|\        |	   |       /|\        |	|	  |       /|\        | ˅
+      |        |         |	   |        |         |		  |        |         |
+      |_______/_\________|	   |_______/_\________|		  |_______/_\________|
+
+	    fig 1			  fig 2				 fig 3
+ 
+	  W = mg		       W = m (g + a)      	      W = m (g - a)
+ 
+
+ Inertial mass (mᵢ)- It is defined as the ratio between force F to the acceleration a a produced in the body.
+ ------------
+					       mᵢ = F / a
+
+ Note: When the velocity of a body is comparable to the velocity of light, inertial mass changes with 
+       velocity in accordance with following formula,
+						
+						       mᵢ₀
+					mᵢ =	 ----------------
+						    _________
+						   √ 1-v²/c²
+where : 
+mᵢ₀ : The rest mass of body
+v is the velocity of body
+c is the velocity of light.
+
+
+
+				-------------------------------
+				Conservation of linear momentum
+				-------------------------------
+
+In an isolated system (no external force), the algebraic sum of the momentum of bodies, along any straight line, 
+remains constant and is not changed due to their mutual action and reaction on each other.
+
+Recoil of gun:- If m is the mass of the bullet, M is the mass of gun and v is the mass of the 
+bullet, then, velocity of the recoil of gun  V can be calulated by : 
+
+				pᵢ =  p𝒻                    
+				0  =  MV + mv
+			     => MV = -mv
+                                                    
+
+
+				Equilibrium of concurrent forces
+				--------------------------------
+
+? Forces are said to be concurrent if they meet at a common point.
+
+				Moment of the force = F×d
+
+Here F is the force and d is the distance of line of action.
+
+Momentum of a couple (Torque ( )):- Momentum of a couple is equal to the product of force F and the perpendicular
+				    distance r between them.
+
+•	Work done by a couple: (W)-
+W = torque × θ 
+Here   θ is the angular displacement.
+
+
+
+				Connected motion (Pulley problem)
+				---------------------------------
+ 
+(a) Driven body moving vertically:- 
+
+Acceleration of the system,			 a = (M-m/M+m) g  
+Tension in the string,				 T = (2Mm/M+m) g 
+The force on the pulley,			 F = (4Mm/M+m) g
+
+(b) Driven body moving horizontally:-
+ 
+Acceleration of the system, 			a = (M /M+m) g 
+Tension in the string, 				T= (Mm/M+m) g 
+The force on the pulley, 			F= [√2 (Mm) /M+m] g 
+
+• Here g is the free fall acceleration.
+	
+
+
+
+		Application of Newton’s third law on contact of two block
+		---------------------------------------------------------
+ 
+(a) Acceleration, a = F/(m + M) 
+(b) Contact force, F₁₂ = (m/m+M) F = F₂₁

@@ -1,0 +1,73 @@
+﻿                             
+					  ==========================
+					  CHEMICAL BONDING QUESTIONS
+					  ==========================
+                             
+ Q1) Stability of the species Li₂, Li²⁻ , Li²⁺ increases in the order of :
+                                   
+ 1. Li²⁻ <  Li²⁺  < Li₂       
+ 2. Li₂  <  Li²⁻  < Li²⁺         
+ 3. Li²⁻ <  Li₂   < Li²⁺        
+ 4. Li₂  <  Li²⁺  < Li²⁻
+                             
+ Answer: 1
+                        
+ Solution : 
+		Stability of species depends on its bond order. Greater the bond order, more stable would be the species.
+		                     
+		Electronic configuration of Li₂ = σ₁ₛ², σ*₁ₛ², σ₂ₛ²
+              	Bond Order = (No. of electrons in bonding orbitals –No. of electrons in antibonding orbitals)/2
+                           = ½ (4-2) =1
+                                
+		Electronic configuration of Li²⁺ = σ₁ₛ², σ*₁ₛ², σ₂ₛ¹
+                Bond Order = ½(3-2) = 0.5
+                                
+		Electronic configuration of Li2- = σ₁ₛ², σ*₁ₛ², σ₂ₛ², σ*₂ₛ¹
+                Bond Order = ½ (4-3) = 0.5
+                                    
+		Bond order of both Li²⁻ and Li²⁺ is same but  Li²⁺ will be more stable as it has lesser number of antibonding electrons.
+                So, the correct order is Li²⁻ <  Li²⁺  < Li₂ 
+                And hence, the correct order is A. 
+                         
+                      
+                      
+                            
+ Q2) Which one of the following molecules is expected to exhibit diamagnetic behaviour?
+                          
+ 1) N₂                                  
+ 2) O₂                          
+ 3) S₂                         
+ 4) C₂                               
+                                    
+ Answer: 1,3
+                                
+ Solution: 
+	     	N₂ (14) = σ₁ₛ², σ*₁ₛ², σ₂ₛ², σ*₂ₛ², σ₂ₚ⁶
+		There is no unpaired electron so it is diamagnetic.
+                                         
+ 		O₂ (16) = σ₁ₛ², σ*₁ₛ², σ₂ₛ², σ*₂ₛ², σ₂ₚₓ² , π₂ₚᵧ²  , π₂ₚ𝓏², π*₂ₚᵧ¹ , π₂ₚ𝓏¹
+                There are two unpaired electrons in antibonding 2p orbitals, hence it is paramagnetic.
+                                        
+		C₂ (12) = σ₁ₛ², σ*₁ₛ², σ₂ₛ², σ*₂ₛ², π₂ₚᵧ² , π₂ₚ𝓏²
+                There are no unpaired electrons, hence it is diamagnetic.
+                                     
+		S₂ (32) = σ₁ₛ², σ*₁ₛ², σ₂ₛ², σ*₂ₛ², σ₂ₚₓ² , π₂ₚᵧ² , π₂ₚ𝓏² , π*₂ₚᵧ² , π₂ₚ𝓏² , σ*₂ₚₓ² , σ₃ₛ² , σ*₃ₛ², σ₃ₚₓ² , π₂ₚᵧ² , π₂ₚ𝓏² , π*₂ₚᵧ¹ , π₂ₚ𝓏¹
+         	There are two unpaired electrons in antibonding 3p orbitals, hence it is paramagnetic.
+          	Hence, 1 and 3 are the correct options.
+                                             
+                            
+                          
+                            
+ Q3) The shape of XeO₂F₂ molecule is
+                                 
+ 1. trigonal bipyramidal             
+ 2. square planar              
+ 3. tetrahedral          
+ 4. see-saw              
+                               
+ Answer: 4          
+                                  
+ Soulution :      
+		XeO₂F₂ molecule has see-saw geometry with two F atoms on axial positions while two O atoms and a lone pair of
+		electrons on equatorial positions
+                                                              

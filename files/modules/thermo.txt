@@ -1,0 +1,337 @@
+﻿
+                                         =======================
+                                         CHEMICAL THERMODYNAMICS
+                                         =======================
+
+ The scientific discipline that intersects the areas of chemistry and physic is commonly known as physical chemistry,
+ and it is in that area that a thorough study of thermodynamics takes place. Physics concerns itself heavily with the
+ mechanics of events in nature. Certainly changes in energy -- however measured, whether it be heat, light, work, etc. -- 
+ are clearly physical events that also have a chemical nature to them. Thermodynamics is the study of energy changes
+ accompanying physical and chemical changes. The term itself clearly suggests what is happening -- "thermo", from
+ temperature, meaning energy, and "dynamics", which means the change over time.
+ 
+ Thermodynamics can be roughly encapsulated with these topics:
+ ________________________________________
+ •	Heat and Work
+ •	Energy
+ •	Enthalpy
+ •	Entropy
+ •	Gibbs Free Energy
+ ________________________________________
+
+
+                                              -------------
+                                        1) i. Heat and Work
+                                              -------------
+ Heat and work are both forms of energy. They are also related forms, in that one can be transformed into the other.
+ Heat energy (such as steam engines) can be used to do work (such as  pushing a train down the track). Work can be
+ transformed into heat, such as might be experienced by rubbing your hands together to warm them up.
+ 
+ Work and heat can both be described using the same unit of measure. 
+ 1 calorie : Amount of heat required to raise 1g of water by 1°C. Heat energy is measuredin kilocalories, or 1000 calories.
+ Typically, we use the SI units of Joules (J) and kilojoules (kJ). 
+ 1 calorie = 4.187 J
+
+ specific heat
+ -------------
+ the heat required to raise one (1) gram of a material by one (1) degree Celsius. Specific heat, given by the
+ symbol "C", is generally  defined as:
+                                                    c = Q
+                                                       ---
+                                                       mΔT
+  
+ Where:
+ c = specific heat in cal/g-°C 
+ Q = heat added in calories, 
+ m = mass in grams 
+ ΔT = rise in temperature of the material in °C.
+  
+ * The value of C for water is 1.00 cal/g-°C.
+ The values for specific heat that are reported in the literature are usually listed at a specific pressure and/or volume, and
+ you need to pay attention to these settings when using values  from textbooks in problems or computer models.
+
+ Example Problem : If a 2.34 g substance at 22°C with a specific heat of 3.88 cal/g-°C is heated with 124 cal of energy, what is
+ ---------------   the new temperature of the substance ?
+ 
+ Answer:    ΔT =  q
+                 ---
+                  MC 
+                     124
+            ΔT = ------------  = 13.7°C
+                 (2.34)(3.88)	
+ 
+         new T = 22 + 13.7 = 35.7°C 		
+				
+
+ Two other common heat variables are the heat of fusion and the heat of vaporization.
+ 
+        Heat of fusion : The heat required to melt a substance at its melting temperature.
+ Heat of  vaporization :  The heat required to evaporate the substance at its boiling point.
+
+
+                                                 -------------
+                                             ii. Chemical work
+                                                 -------------
+ Chemical work is primarily related to that of expansion. In physics, work is defined as:
+                                                w = d × f
+ Where:
+	 w = work, in joules (N×m) (or calories, but we are using primarily SI units) 
+	 d = distance in meters
+	 f = opposing force in Newtons (kg*m/s2)
+ 
+ In chemical reactions, work is generally defined as :
+ 					    		w = distance × (area × pressure)
+ 
+ The value of distance times area is actually the volume. If we imagine a reaction taking place in a container of some volume,
+ we measure work by pressure times the change in volume.
+                                               
+					 w = ΔV × P
+ Where:
+	 ΔV is the change in volume, in liters
+	 If ΔV=0, then no work is done.
+
+
+ Example Problem: Calculate the work that must be done at standard temperature and pressure (STP is 0°C and 1 atm) to make room
+ ---------------  for the products of the octane combustion:
+                       						 2 C₈H₁₈ + 25 O₂ --> 16 CO₂ + 18 H₂O
+
+ 
+ Answer:
+	 Knowing that 25 moles of gas are replaced by 34 moles of gas in this reaction, we can calculate a net increase of 9 moles of gas.
+ 	 Knowing the molar volume of an ideal gas at STP (22.4 L/mol), the change in volume and the work of expansion can be calculated 
+ 
+ 	 ΔV = 9 moles * 22.4 L/mol = 202 L 
+	 The external pressure is 1.0 atm (standard pressure), so the work required is: 
+
+	 w = ΔV * P = 202 L * 1.00 atm = 202 l-atm 
+	 ∵ 1 L-atm = 101 J,
+	 w = 202 L-atm * 101 J/L-atm = 20402 J, or 20.4 kJ of energy 
+
+
+
+
+
+
+                                                      ------
+                                                   2) Energy
+                                                      ------
+ You might remember the first law of thermodynamics: energy cannot be created or destroyed. Energy can only change form. Chemically,
+ that usually means energy is converted to work, energy in the form of heat moves from one place to another, or energy is stored up
+ in the constituent chemicals. You have seen how to calculate work. Heat is defined as that energy that is transferred as a result
+ of a temperature difference between a system and its surroundings. Mathematically, we can look at the change in energy of a system
+ as being a function of both heat and work:
+                                                  ΔE = q + w
+ Where:
+	 ΔE is the change in internal energy of a system 
+	 q is the heat flowing into the system 
+	 w is the work being done by the system
+  
+ -> If q is positive, we say that the reaction is endothermic, that is, heat flows into the reaction from the outside surroundings.
+ -> If q is negative, then the reaction is exothermic, that is, heat is given off to the external surroundings.
+
+ Kinetic energy is the energy of motion -- the amount of energy in an object that is moving.
+ --------------
+ Potential energy is stationary, stored energy.
+ ----------------
+ 
+ E.g. If you think of a ball sitting on the edge of a table, it has potential energy in the energy possible if it falls off the table.
+ Potential energy can be transformed into kinetic energy if and when the ball actually rolls off the table and is in motion.
+ 
+                                           Total Energy = K.E.+ P.E.
+ 
+
+ In descriptions of the energy of a system, you will also see the phrase "state properties".
+ A state property is a quantity whose value is independent of the past history of the substance.
+   -------------- 
+ Typical state properties are altitude, pressure, volume, temperature, and internal energy.
+
+
+
+
+
+
+						       --------
+                                                    3) Enthalpy
+                                                       --------
+ It is defined by its change rather than a single entity. A state property, the word enthalpy comes from the Greek "heat inside".
+ If you have a chemical system that undergoes some kind of change but has a fixed volume, the heat output is equal to the change
+ in internal energy (q = ΔE). We will define the enthalpy change, ΔH, of a system as being equal to its heat output at constant pressure:
+ 
+                                                     ΔH = q at constant pressure
+ Where:
+	 ΔH = change in enthalpy
+				 We define enthalpy itself as:   H = E + PV
+
+Where:
+	H = enthalpy
+	E = energy of the system
+	PV = pressure in atm times volume in liters
+
+ You will not need to be able to calculate the enthalpy directly; in chemistry, we are only interested in the change in enthalpy, or ΔH.
+
+				ΔH = H fᵢₙₐₗ - Hᵢₙᵢₜᵢₐₗ or ΔH = H ₚᵣₒdᵤcₜ - H ᵣₑₐcₜₐₙₜ
+
+ * Tables of enthalpies are generally given as ΔH values.
+
+										Δ
+	Example Problem: Calculate the ΔH value of the reaction:   HCl + NH₃ ------> NH₄Cl
+        ---------------  (ΔH values for HCl is -92.30; NH₃ is -80.29; NH₄Cl is -314.4)
+
+Answer:
+	 ΔH = ΔH ₚᵣₒdᵤcₜ - ΔH ᵣₑₐcₜₐₙₜ
+	 ΔH products = -314.4
+	 ΔH reactants = -92.30 + (-80.29) = -172.59
+	 ΔH = -314.4 - 172.59 = 141.8 
+
+
+We can also represent enthalpy change with the equation:	ΔH = ΔE + P ΔV
+
+Where:
+	ΔV is the change in volume, in liters
+	P is the constant pressure
+
+ If you recall, work is defined as P ΔV, so enthalpy changes are simply a reflection of the amount of energy change
+ (energy going in or out, endothermic or exothermic), and the amount of work being done by the reaction.
+
+ For example, if ΔE = -100 kJ in a certain combustion reaction, but 10 kJ of work needs to be done to make room for
+ the products, the change in enthalpy is:
+						ΔH = -100 kJ + 10 kJ = -90 kJ
+
+ This is an exothermic reaction (which is expected with combustion), and 90 kJ of energy is released to the environment.
+ Basically, you get warmer. 
+ 
+ * Notice the convention used here -- a negative value represents energy coming out of the system.
+
+ You can also determine ΔH for a reaction based on bond dissociation energies. Breaking bonds requires energy while forming
+ bonds releases energy. In a given equation, you must determine what kinds of bonds are broken and what kind of bonds are formed.
+ Use this information to calculate the amount of energy used to break bonds and the amount used to form bonds. If you subtract
+ the amount to break bonds from the amount to form bonds, you will have the ΔH for the reaction.
+
+ Example Problem: Calculate ΔH for the reaction:   		N₂ + 3H₂ Δ 2NH₃
+ ---------------  (The bond dissociation energy for N-N is 163 kJ/mol; H-H is 436 kJ/mol; N-H is 391 kJ/mol)
+ 
+ Answer:
+ 	 ΔH = ΔH products - ΔHreactants
+	 To use the bond dissociation energies, we must determine how many bonds  are in the products and the reactants.
+	 -> In NH₃ there are 3 N-H bonds so in 2 NH₃ there are 6 N-H bonds.
+	 -> In N₂ there is 1 N-N bond 
+	 -> In 3H₂ there are 3 H-H bonds.
+
+	 ΔH products = 6(391) = 2346
+	 ΔH reactants = 163 + 3(436) = 1471
+	 ΔH = 2346 - 1471 = 875 
+
+
+
+
+
+							 -------
+						      4) Entropy
+							 -------
+
+ Entropy is a measure of the disorder of a system. Take your room as an example. Left to itself, your room will increase in
+ entropy (i.e., get messier) if no work (cleaning up) is done to contain the disorder. Work must be done to keep the entropy
+ of the system low.
+
+ Entropy comes from the second law of thermodynamics, which states that all systems tend to reach a state of equilibrium.
+ The significance of entropy is that when a spontaneous change occurs in a system, it will always be found that if the total
+ entropy change for everything involved is calculated, a positive value will be obtained. Simply, all spontaneous
+ changes in an isolated chemical system occur with an increase in entropy. Entropy, like temperature, pressure, and enthalpy, is
+ also a state property and is represented in the literature by the symbol "S". Like enthalpy, you can calculate the change of S (ΔS).
+
+			Δ S = S fᵢₙₐₗ - Sᵢₙᵢₜᵢₐₗ or ΔS = S ₚᵣₒdᵤcₜ - S ᵣₑₐcₜₐₙₜ
+ Where:
+	ΔS is change in entropy
+	S fᵢₙₐₗ - Sᵢₙᵢₜᵢₐₗ are the final and initial entropies, respectively
+
+ The following table shows the relationship between the state of a substance and its entropy:
+				      --------------------------------------------------
+				      |  State of substance   |   Relative Entropy (S) |
+				      |-----------------------|------------------------|
+				      |         gas	      |         highest S      |
+				      |       aqueous	      |          high S        |
+				      |       liquid	      |         medium S       |
+				      |        solid	      |         lowest S       |
+				      --------------------------------------------------
+
+
+
+
+
+
+							-----------------
+						     5) Gibbs Free Energy
+							-----------------
+
+ The free energy of a system, represented by the letter "G", is defined as the energy of a system that is free to do work at
+ constant temperature and pressure. Mathematically, it is defined as:
+
+							G = H - TS
+ Where:
+	G is the energy (sometimes called the free energy)
+	H is the enthalpy
+	T is the temperature
+	S is the entropy of the system.
+
+You can also calculate the change in G the same way as you calculate the change in enthalpy or entropy:
+
+						ΔG = G ₚᵣₒdᵤcₜ - G ᵣₑₐcₜₐₙₜ
+ Where:
+	ΔG is change in free energy
+ 
+ A pop-up calculator is available to calculate the enthalpy and Gibbs free energy changes in reactions.
+
+ Given a constant temperature and pressure, the direction of any spontaneous change is toward a lower Gibbs free energy.
+ The graphic below shows that during a reaction, the amount of free energy decreases until the reaction is at equilibrium. If
+ the reaction goes towards completion, the free energy minimum occurs very close to the pure products part of the curve.
+ In other words, the curve moves depending on the conditions of the reaction.
+ 
+
+      |  pure                               pure
+      |   reactants                          products
+      |_____                               _________
+      |     \                             /
+      |      \                           /
+      |       \   direction of          /
+      |        \   spontaneous         /
+Free  |         \<- reaction towards->/            
+energy|          \   equilibrium     /
+      |           \                 /
+      |            \               /
+      |             \             /
+      |              \           /
+      |               \         / 
+      |                \       /
+      |                 \     /
+      |                  \   /
+      |                   \_/
+      |                    |                    
+      |                    |
+      |                    |
+      |                    |equilibrium
+      |                    |
+      |                    |
+      |____________________|_________________________________
+       
+        -----------increasing proportion of products----->
+
+
+
+
+
+
+ A table relating all of the state properties summarized above -- enthalpy change, entropy change, and change in free energy --
+ is shown below.
+ A spontaneous reaction : is one that occurs without any outside intervention. Processes that are spontaneous in one direction
+   --------------------   are non-spontaneous in the reverse direction.
+
+	       -------------------------------------------------------------------------------------------------
+	       |   Enthalpy   |   Change   |   Entropy   |   Change   |         Spontaneous Reaction Δ         |
+	       |--------------|------------|-------------|------------|----------------------------------------|
+               | Exothermic   |  (ΔH < 0)  |  Increase   |  (ΔS > 0)  |              Yes, ΔG < 0               |
+               | Exothermic   |  (ΔH < 0)  |  Decrease   |  (ΔS < 0)  |  Only at low temps, if |T ΔS| < |ΔH|   |
+               | Endothermic  |  (ΔH > 0)  |  Increase   |  (ΔS > 0)  |  Only at high temps, if |T ΔS| > |ΔH|  |
+               | Endothermic  |  (ΔH > 0)  |  Decrease   |  (ΔS < 0)  |               No, ΔG > 0               |
+	       -------------------------------------------------------------------------------------------------
+
+

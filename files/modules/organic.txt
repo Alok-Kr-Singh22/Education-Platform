@@ -1,0 +1,397 @@
+﻿
+						=================
+						Organic Chemistry
+						=================
+
+
+ Organic chemistry is the branch of chemistry that deals with the study of hydrocarbons and their derivatives.
+
+ The Shapes of Carbon Compounds -
+ In organic or carbon compounds, s and p orbitals are involved in hybridisation. This leads to y three types of
+ hybridisation which are sp³ (in alkanes) – Tetrahedral in shape sp²(in alkenes) – Planar
+ structure sp(in alkynes) – Linear molecule
+
+
+						----------------
+						Functional Group
+						----------------
+
+ The functional group are atom or group of atoms joined in a specific manner which determines the chemical properties
+ of the organic compound.
+ The examples are hydroxyl group (—OH), aldehyde group (—CHO), carboxylic acid group (—COOH) etc.
+
+                                       H    H
+                                       |    |
+                                    H——C————C——OH
+                                       |    |
+                                       H    H
+                                     Functional group
+
+                                        H    H   
+                                        |    |  
+                                    H———C————C———NH₂
+                                        |    |
+                                        H    H
+                                      Functional group
+          
+
+			      		       -----------------
+                                               Homologous Series
+					       -----------------
+
+ A homologous series may be defined as a family of organic compounds having the same functional group, similar chemical
+ properties and the successive members differ from each other in molecular
+ formula by —CH2 units. The members of a homologous series can be represented by same general molecular formula.
+
+ • Nomenclature of Organic Compounds
+  ---------------------------------
+ Common name (Common system): Before the IUPAC system of nomenclature, organic compounds were named after the sources
+ of origin, for example, urea was so named because it was obtained
+ from the urine of mammals. Formic acid was so named since it was extracted from red ants called formica.
+
+		-----------------------------------------------------------------
+			Compound                            Common name
+		-----------------------------------------------------------------
+			CH₄                                   Methane
+			CH₃CH₂CH₂CH₃                          n-Butane
+			(CH₃)₂CHCH₃                           Isobutane
+			(CH₃)₄C                               Neopentane
+			CH₃CH₂CH₂OH                        n-propyl Alcohol
+			HCHO                                 Formaldehyde
+			(CH₃)₂CO                                Acetone
+			CHCL₃                                 Chloroform
+			CH₃COOH                               Acetic acid
+			C₆H₆                                    Benzene
+			C₆H₅OCH₃                                Anisole
+			C₆H₅NH₂                                 Aniline
+			C₆H₅COCH₃                             Acetophenone
+			CH₃OCH₂CH₃                          Ethyl methyl ether
+		-----------------------------------------------------------------
+
+
+			----------------------------------------------------------------
+			IUPAC (International Union of Pure and Applied Chemistry) System
+			----------------------------------------------------------------
+
+ According to IUPAC system, the name of an organic compound contains three parts: (i) word root, (ii) suffix, (iii) prefix.
+
+ (i) Word root: Word root represents the number of carbon atoms present in the principal chain, which is the longest possible chain of carbon atoms.
+    For special word roots
+ C₁ ——— meth
+ C₂ ——— eth
+ C₃ ——— prop
+ C₄ ——— but
+
+ (ii) Suffix: Suffix are of two types, primary suffix, secondary suffix.
+ 		(a) Primary Suffix: It indicates the type of bond in the carbon atoms.
+	          ane for C—C bond
+	          ene for  C=C bond
+        	  yne for C≡ C bond
+		
+		(b) Secondary Suffix: Secondary suffix is used to represent the functional group.
+
+ (iii) Prefix: Prefix is a part of IUPAC name which appears before the word root. Prefix
+       are of two types:
+		(a) Primary prefix: For example, primary prefix cyclo is used to differentiate cyclic compounds.
+        
+	       CH₂
+             /    \
+           H₂C_____CH₂
+         
+	Cyclopropane
+
+		(b) Secondary prefix: Some functional groups are considered as substituents and denoted by secondary prefixes.
+
+ For example:
+			-----------------------------------------------------------
+				Substituted Group            Secondary prefix
+			-----------------------------------------------------------
+					— F                        Fluoro
+					— Cl                       Chloro
+					— Br                       Bromo
+					— NO                       Nitroso
+					— NO₂                      Nitro
+					— CH₃                      Methyl
+					— OCH₃                     Methoxy
+			-----------------------------------------------------------
+
+
+ Naming of Compounds Containing Functional Groups
+ ------------------------------------------------
+ The longest chain of carbon atoms containing the functional group is numbered in such a manner that the functional
+ group is attached at the carbon atoms possessing lowest possible number in the chain.
+ In case of polyfunctional compounds, one of the functional group is selected as principal functional group and the
+ compound is named on that basis. The choice of principal functional group is made on the basis of order of preference.
+
+ The order of decreasing priority for the functional group is₁₂₃₄
+
+				— COOH > — SO₃H > — COOR (R=alkyl group) > COCL > — CONH₂ > —CN > — C
+
+
+
+
+						---------
+						Isomerism
+						---------
+
+ When there are two or more compounds possessing the same molecular formula but different structural formula and
+ different physical and chemical properties, the phenomenon is called isomerism. Such compounds are called isomers.
+
+ It is of two types:
+ (1) Structural Isomerism
+ (2) Stereoisomerism
+
+ (1) Structural Isomerism: Structural isomerism is shown by compounds having the same molecular formula but different
+     --------------------  structural formulae differing in the arrangement of atoms.
+
+      (2) Stereoisomerism: When isomerism is caused by the different arrangements of atoms or groups in space, the phenomenon
+          ---------------  is called stereoisomerism. The steroeoisomers have same structural formula but differ in arrangement
+                           of atoms in space. 
+
+ Stereoisomerism is of two types:
+ (i) Geometrical or Cis-Trans Isomerism
+ (ii) Optical Isomerism
+
+
+
+
+                              --------------------------------------------------
+                              Fundamental Concepts in Organic Reaction Mechanism
+                              --------------------------------------------------
+
+ Fission of a covalent bond: A covalent bond can undergo Fission in two ways:
+ (i) By Homolytic Fission or Homolysis
+ (ii) By Heterolytic Fission or Heterolysis
+
+ Homolytic Fission: In this process each of the atoms acquires one of the bonding electrons.
+ -----------------
+				A — B    OR    A : B
+
+ The products A and B are called free radicals
+
+ Heterolytic Fission: In this process one of atoms aquires both of the bonding electrons when the bond is broken.
+ -------------------  If B is more electronegative than A which thereby aquires both the bonding electrons and becomes
+		      negatively charged.
+		      The products of heterolytic fission are ions.
+
+
+ Reaction Intermediates: Heterolytic and homolytic bond fission results in the formation of short-lived fragments called
+ ----------------------	 reaction intermediates. 
+
+ Among the important reaction intermediates are carbonium ions, carbanions, carbon free radicals and carbenes.
+
+ Carbonium Ions (carbocations): Organic ions which contain a positively charged carbon atom are called carbonium ions or
+				carbocations. They are formed by heterolytic bond fission, where Z is more electronegative than
+				carbon.
+
+ Tertiary carbonium ion is more stable than a secondary, which in turn is more stable than a primary because of +1 effect
+ associated with alkyl group.
+
+ Carbanion: Organic ion which contains a negatively charged carbon atom are called carbanions. They are also formed by 
+ ---------- heterolytic bond fission, Where Z is less electronegative than carbon. A primary carbanion is more stable than
+	    a secondary, which in turn is more stable than a tertiary, because of +1 effect associated with alkyl group.
+
+ Electrophile: It is positively charged or neutral species which is electron deficient,
+ ------------
+ e.g., He⁻, H₂0⁺, CH₃⁻ , NH₄⁺, AlCl₃ , S0₃ , CHCl₂ , CCI₃
+
+ Nucleophile: It is negatively charged or neutral species with lone pair of electrons e.g., (OH⁻), Cyanide (C = N), H₂0, R₃N, R₂NH etc.
+ -----------
+
+
+
+
+				 -----------------------------------------------
+				 Electron Displacement Effects in Covalent Bonds
+				 -----------------------------------------------
+
+ Electronic displacements in covalent bonds occurs due to the presence of an atom or group of different electronegativity or under
+ the influence of some outside attaching group.
+ These lead to a number of effects which are as follows:
+
+ (i) Inductive effect  (ii) Elecromeric effect  (iii) Resonance or Mesomeric effect  (iv) Hyperconjugation effect
+
+
+
+						 Inductive Effect:
+						 ----------------
+ It involves c electron. The a electrons which form a covalent bond are seldom shared equally between the two atoms. Due to
+ different electronegatively electrons are displaced towards the more electronegative atom. This introduces a certain
+ degree of polarity in the bond. The more electronegative atom acquires a small negative charge (δ–). The less electronegative
+ atom acquires a small positive charge (δ+).
+
+ Consider the carbon-chlorine bond
+ As chlorine is more electronegative, it will become negatively charged with respect to the carbon atom.
+
+ Atoms or groups which lose electrons towards a carbon atom are said to have a +1 effect. Those atoms or groups which draw
+ electrons away from a carbon atom are said to have a -I Effect. Some common atoms or groups which cause +I or -I effects
+ are shown below:
+
+ The inductive effect of C₃ upon C₂ is significantly less than the effect of the chlorine atom on C.
+ 
+ 
+ 
+
+						-------------------
+ 						Resonance Structure
+						-------------------
+ A number of organic compounds cannot be accurately represented by one structure. For example, benzene is ordinarily represented as
+                                                                          
+                                                      H       H              
+                                                       \     /                                         
+                                                        C = C                                             
+                                                       /     \                                        
+                        I                         H — C       C — H                                     
+                                                      \\    //                                        
+                                                       C — C                                          
+                                                      /     \           
+                                                     H       H    
+											
+                                                      H       H              
+                                                       \     /                                         
+                                                        C — C                                             
+                                                      //    \\                                        
+                       II                         H — C      C — H                                     
+                                                      \     /                                        
+                                                       C = C                                          
+                                                      /     \           
+                                                     H       H    
+                                       
+	Carbon-carbon double bond length = 1.34 A
+	Carbon-carbon single bond length = 1.54A. 
+
+	But it has been determined experimentally that all carbon-carbon bonds in benzene are identical and have same bond
+	length (1.39A).	Thus the structure of benzene cannot be represented by single structure. It can be represented
+	equally well by the energetically similar structures I and II. The two structures are called resonance structures.
+        Actual structure of benzene is resonance hybrid of structures I and II.                      --------------------
+	
+	Another example of resonance is provided by nitromethane (CH₃N0₂) which can be represented by two Lewis structures.
+	The actual structure of nitromethane is a resonance hybrid of the two canonical forms.
+
+
+ Resonance energy: The difference in the energy between the most stable contributing structure for a compound and its resonance
+ ----------------   hybrid is called as resonance energy or resonance stabilisation energy.
+
+ Resonance Effect: The polarity produced in the molecule by the interaction of two π-bonds or between a π-bond and a lone
+ ----------------  pair of electrons present on an adjacent atom.
+		   There are two types of resonance or mesomeric effects designated as R or M effect
+.
+
+ Positive Resonance Effect (+R effect): Those atoms which lose electrons towards a carbon atom are said to have a +M effect
+ -------------------------------------  or +R effect. For example: —Cl, —Br, —I, —NH₂, —NR₂, —OH, —OCH₃
+ 
+ Negative Resonance Effect (-R effect): Those atoms or groups which draw electrons away from a carbon atom are said to have 
+ -------------------------------------  a -M effect or -R effect.
+
+ Electromeric Effect (E Effect): The electrom’eric effect refers to the polarity produced in a multiple bonded compound when 
+ ------------------------------  it is attacked by a reagent when a double or a triple bond is exposed to an attack by an 
+				 electrophile E+ (a reagent) the two π electrons which from the π bond are completely 
+				 transferred to one atom or the other.
+
+ Hyperconjugation or No Bond Resonance: When the alkyl group is attached to an unsaturated system such as —CH=CH₂ group the order 
+ -------------------------------------  of inductive  effect gets reversed. The behaviour can be explained by hyperconjugation
+					effect. Such structures are arrived at by shifting the bonding electrons from an adjacent
+					C —H bond to the electron deficient carbon. In this way, the positive charge originally 
+					on carbon is dispersed to the hydrogen.
+					This way of electron release by assuming no bond character in the adjacent C—H bond is 
+					called No-Bond Resonance or Hyperconjugation.
+
+ Orbital Concept of Hyperconjugation
+ -----------------------------------
+ It involues delocalisation of o electrons of C—H bond of an alkyl group which is attached directly to an atom of unsaturated
+ system or to an atom with an unshared p-orbital. Let us consider CH₃CH₂ (ethyl cation) in which the positively charged carbon
+ atom has an empty p-orbital. One of the C—H bonds of the methyl group can align in the plane of this empty p-orbital and
+ electron constituting the C—H bond in plane with this p-orbital can then be delocalised into the empty p-orbital.
+
+ In general, greater the number of alkyl groups attached to a positively charged carbon atom, the greater is the hyperconjugation.
+
+ 
+
+
+						 -----------------------------------------
+						 Qualitative Analysis of Organic Compounds
+						 -----------------------------------------
+
+ Detection of Carbon and hydrogen: Put Copper Oxide Test: The organic substance is mixed intimately with about three times its
+ --------------------------------  weight of dry copper oxide. The mixture is then placed in a hard glass test-tube fitted with
+				   a bent delivery tube. The other end of which is dipping into lime water in another test tube.
+				   The mixture is heated strongly and the following reactions take place.
+
+ Thus if carbon is present it is oxidised to carbon dioxide which turns lime water milky. If hydrogen is also present, it will be
+ oxidised to water droplets on the cooler wall of the test tube.
+
+ Detection of other elements
+ ---------------------------
+ Lassaigne’s test: Nitrogen, sulphur, halogens and phosphorus present in an organic compound are detected by ‘Lassaigne’s test’.
+ ----------------  Covalent compounds are converted into ionic form by fusing the compound with sodium metal.
+
+
+ Test for Nitrogen:
+ -----------------
+ (i) The substance is heated strongly with sodium metal.
+     Na + C + N ———–> NaCN
+ (ii) The water extract of the fused mass is boiled with ferrous sulphate solution
+ (iii) To the cooled solution is then added a little ferric choride solution and excess of concentrated hydrochloric acid.
+
+	The formation of prussian blue or green colouration confirms the presence of nitrogen.
+
+
+ Test for sulphur:
+ ----------------
+ Sodium Test: Sulphur, if present, in the given organic compound, upon fusion with sodium reacts to form sodium sulphide
+ Thus the sodium extract obtained from the fused mass is tested as:
+ (i) Add freshly prepared sodium nitroprusside solution. A deep violet colouration indicates sulphur.
+ (ii) Acidify the portion of the extract with acetic acid and then add lead acetate solution. A black precipitate of lead sulphide
+      confirms the presence of sulphur.
+
+ If nitrogen and sulphur both are present in an organic compound, sodium thiocyanate is formed. It gives blood red colour and no
+ prussian blue since there are no free cyanide ions.
+
+
+ Test for Halogens:
+ -----------------
+ Sodium Test: Upon fusion with sodium, the halogens in the organic compound are converted to sodium halides.
+
+							Cl + Na ——-> NaCl
+							Br + Na ———> NaBr
+							I + Na ———>NaI
+
+ Acidify a portion of ‘sodium extract’ with dilute nitric acid and add to it silver nitrate solution.
+ • White ppt. soluble in ammonia indicates Chlorine.
+ • Yellow ppt. sparingly soluble in ammonia indicates Bromine.
+ • Yellow ppt. insoluble in ammonia indicates Iodine.
+
+ When nitrogen or sulphur is also present in the compound, the sodium extract before testing for halogens is boiled with strong
+ nitric acid to decompose the cyanide and the sulphite formed during the sodium fusion. If not removed, these radicals will
+ form a white and black precipitate respectively on the addition of silver nitrate.
+
+ Test for phosphorous:
+ --------------------
+ The compound is heated with an oxidising agent (sodium peroxide). The phosphorous present in the compound is oxidised to phosphate.
+ The solution is boiled with HN0₃ and treated with ammonium molybdate.
+ • A yellow coloured ppt. indicates the presence of phosphorous.
+
+
+
+						 -----------------------------------------
+						 Quantitative Analysis of Organic Compounds
+						 -----------------------------------------
+
+ Estimation of Carbon and Hydrogen:
+ ---------------------------------
+ Both carbon and hydrogen are estimated together in one operation. A known weight of an organic compound is burnt in the
+ presence of excess of oxygen and copper (II) oxide. Carbon and hydrogen are oxidised to carbon dioxide and water respectively.
+ The weight of carbon dioxide and water thus formed are determined and the amounts of carbon and hydrogen in the original
+ substance calculated.
+
+ Estimation of Nitrogen
+ ----------------------
+ (i) Dumas method: This method is based on fact that the nitrogenous compounds when heated with copper oxide in an atmosphere
+                   of carbon dioxide yield free nitrogen, the traces of oxides of nitrogen, which may be formed in some cases,
+		   are reduced to elemental nitrogen by passing over heated copper spiral.
+
+ (ii) Kjeldahl’s Methods: Kjeldahl’s method is based on the fact that when an organic compound containing nitrogen is heated
+			  with con. H₂SO₄ the nitrogen in it is converted to ammonium sulphate. The resultant liquid is then
+			  treated with excess of alkali and the liberated ammonia gas absorbed in excess of standard acid.
+     			  The amount of ammonia is determined by finding the amount of acid neutralised by back filtration with
+			  some std. alkali.

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=loading_linear
+comment1.params=
+comment1.target=void\ anime()
+comment2.params=lock1\ lock2\ hd1\ hd2
+comment2.target=void\ anime(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=3
