@@ -6,11 +6,11 @@ PROJECT TITLE :			P.C.M. TUTORIAL
 
 PURPOSE OF PROJECT :		Tutorial Website Dummy (To study the properties of OOPS in java)
 
-VERSION or DATE :		05-12-2018
+DATE :	                 	June'24
 
 HOW TO START THIS PROJECT :	Just run the "main_access" interface in the package
 
-AUTHORS :			Amay Raj (10/A, 108110) & Divyanshi (10/D, 108014)
+AUTHORS :			Alok Kumar Singh
 
 USER INSTRUCTIONS :		Preferred chronology of running the program would be to -
 				=> 1st Register yourself, and 
